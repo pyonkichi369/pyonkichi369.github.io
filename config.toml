@@ -1,8 +1,11 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://pyonkichi369.github.io/'
 languageCode = 'ja'
 defaultContentLanguage = 'ja'
 title = 'PYONKICHI BLOG'
 theme = 'hugo-PaperMod'
+publishDir = 'docs'
+searchHidden = true
+enableEmoji = true
 
 [author]
   name = "ぴょんきち"
@@ -22,6 +25,10 @@ theme = 'hugo-PaperMod'
   imageGallery = true
   hierarchicalCategories = true
   syntaxHighlighter = "highlight.js"
+  showShareButtons = true
+  showBreadCrumbs = true
+  showCodeCopyButtons = true
+  comments = true
 
 [[menu.main]]
   weight = 1
@@ -42,11 +49,17 @@ theme = 'hugo-PaperMod'
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
   url = "/tags"
 [[menu.main]]
-  weight = 5
-  identifier = "about"
-  name = "About"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
-  url = "/about"
+  weight = 4
+  identifier = "archives"
+  name = "Archives"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
+  url = "/archives"
+# [[menu.main]]
+#   weight = 5
+#   identifier = "about"
+#   name = "About"
+#   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
+#   url = "/about"
 
 [[menu.links]]
   weight = 0
@@ -54,3 +67,13 @@ theme = 'hugo-PaperMod'
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
   url = "https://github.com/kakawait"
+
+[params.homeInfoParams]
+title = "Hi there 👋"
+content = "Can be Info, links, about..."
+
+[[params.socialIcons]]
+name = "github"
+
+[[params.socialIcons]]
+name = "twitter"

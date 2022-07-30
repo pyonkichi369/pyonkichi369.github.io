@@ -7,7 +7,6 @@ tags:
     - hello
 keywords:
     - hello
-comments:       false
 showMeta:       true
 showActions:    false
 #thumbnailImage: //example.com/image.jpg
