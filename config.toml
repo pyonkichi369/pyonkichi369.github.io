@@ -102,6 +102,10 @@ enableEmoji = true
   name = "twitter"
   url = "https://twitter.com/pyonkichi369/"
 
+[[params.socialIcons]]
+  name = "rss"
+  url = "index.xml"
+
 [markup.highlight]
   style = "dracula"
 
