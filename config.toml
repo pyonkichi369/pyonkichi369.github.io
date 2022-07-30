@@ -20,14 +20,16 @@ enableEmoji = true
 [languages]
   [languages.ja]
       title = 'PYONKICHI BLOG'
-      languageName = 'Japanese'
+      languageName = '🇯🇵 Japanese'
+      displayFullLangName = true
       weight = 1
       [languages.ja.params.homeInfoParams]
         title = "Hi there 👋"
         content = "日本語"
   [languages.en]
       title = 'PYONKICHI BLOG'
-      languageName = 'English'
+      languageName = '🇺🇸 English'
+      displayFullLangName = true
       weight = 2
       [languages.en.params.homeInfoParams]
         title = "Hi there 👋"
