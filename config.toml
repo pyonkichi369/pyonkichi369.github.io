@@ -24,8 +24,8 @@ enableEmoji = true
       displayFullLangName = true
       weight = 1
       [languages.ja.params.homeInfoParams]
-        title = "Hi there 👋"
-        content = "エンジニアしてます"
+        title = "こんにちは 👋"
+        content = "とーきょーでエンジニアしてます</br><p style='font-weight: bold'>Java JavaScript Perl PHP / Spring Laravel Amon2</p>"
   [languages.en]
       title = 'PYONKICHI BLOG'
       languageName = '🇺🇸 English'
@@ -33,7 +33,7 @@ enableEmoji = true
       weight = 2
       [languages.en.params.homeInfoParams]
         title = "Hi there 👋"
-        content = "A Software Engineer @Tokyo"
+        content = "A Software Engineer @Tokyo</br><p style='font-weight: bold'>Java JavaScript Perl PHP / Spring Laravel Amon2</p>"
 
 [params]
   sidebarBehavior = 2
