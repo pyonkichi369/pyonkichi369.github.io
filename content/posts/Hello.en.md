@@ -9,7 +9,13 @@ keywords:
     - Hello
 showMeta: true
 showActions: false
-#thumbnailImage: //example.com/image.jpg
+cover:
+  image: "images/thumbnail.jpg"
+  # can also paste direct link from external site
+  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+  alt: "Hello"
+  caption: "Hello"
+  relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 Hello
