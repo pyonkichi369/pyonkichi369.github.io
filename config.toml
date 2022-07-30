@@ -14,7 +14,7 @@ enableEmoji = true
   bio = "サンプル"
   job = "enginner"
   location = "Japan"
-  # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
+  picture = "images/thumbnail.jpg"
   gravatarEmail = "belle.official369@gmail.com"
 
 [languages]
@@ -25,7 +25,7 @@ enableEmoji = true
       weight = 1
       [languages.ja.params.homeInfoParams]
         title = "Hi there 👋"
-        content = "日本語"
+        content = "エンジニアしてます"
   [languages.en]
       title = 'PYONKICHI BLOG'
       languageName = '🇺🇸 English'
@@ -33,7 +33,7 @@ enableEmoji = true
       weight = 2
       [languages.en.params.homeInfoParams]
         title = "Hi there 👋"
-        content = "English"
+        content = "A Software Engineer @Tokyo"
 
 [params]
   sidebarBehavior = 2
@@ -41,12 +41,13 @@ enableEmoji = true
   dateFormat = "2006-01-02"
   thumbnailImagePosition = "left"
   autoThumbnailImage = true
-  coverImage = "images/cover.jpg"
   imageGallery = true
   hierarchicalCategories = true
   syntaxHighlighter = "highlight.js"
   showShareButtons = true
   showBreadCrumbs = true
+  showPostNavLinks = true
+  showReadingTime = true
   showCodeCopyButtons = true
   comments = true
 
