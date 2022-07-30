@@ -103,6 +103,10 @@ enableEmoji = true
   url = "https://twitter.com/pyonkichi369/"
 
 [[params.socialIcons]]
+  name = "email"
+  url = "mailto:belle.official369@gmail.com"
+
+[[params.socialIcons]]
   name = "rss"
   url = "index.xml"
 
