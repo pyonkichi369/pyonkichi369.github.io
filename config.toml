@@ -1,10 +1,12 @@
+# https://mshr-h.com/posts/new-website-with-hugo/
+
 baseURL = 'https://pyonkichi369.github.io/'
 languageCode = 'ja'
 defaultContentLanguage = 'ja'
 title = 'PYONKICHI BLOG'
 theme = 'hugo-PaperMod'
 publishDir = 'docs'
-searchHidden = true
+searchHidden = false
 enableEmoji = true
 
 [author]
@@ -14,6 +16,37 @@ enableEmoji = true
   location = "Japan"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "belle.official369@gmail.com"
+
+[languages]
+  [languages.ja]
+      title = 'PYONKICHI BLOG'
+      languageName = 'Japanese'
+      weight = 1
+      [languages.ja.params.homeInfoParams]
+        title = "Hi there 👋"
+        content = "日本語"
+  [languages.en]
+      title = 'PYONKICHI BLOG'
+      languageName = 'English'
+      weight = 2
+      [languages.en.params.homeInfoParams]
+        title = "Hi there 👋"
+        content = "English"
+#   [languages.en]
+#     title = 'My blog'
+#     weight = 1
+#     [languages.en.params]
+#       linkedin = 'https://linkedin.com/whoever'
+#   [languages.fr]
+#     title = 'Mon blogue'
+#     weight = 2
+#     [languages.fr.params]
+#       linkedin = 'https://linkedin.com/fr/whoever'
+#       [languages.fr.params.navigation]
+#         help = 'Aide'
+#   [languages.pt-pt]
+#     title = 'O meu blog'
+#     weight = 3
 
 [params]
   sidebarBehavior = 2
@@ -32,34 +65,40 @@ enableEmoji = true
 
 [[menu.main]]
   weight = 1
-  identifier = "home"
-  name = "Home"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
-  url = "/"
+  identifier = "archives"
+  name = "Archives"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
+  url = "/archives"
 [[menu.main]]
   weight = 2
+  identifier = "search"
+  name = "Search"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
+  url = "/search"
+[[menu.main]]
+  weight = 3
   identifier = "categories"
   name = "Categories"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
   url = "/categories"
 [[menu.main]]
-  weight = 3
+  weight = 4
   identifier = "tags"
   name = "Tags"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
   url = "/tags"
-[[menu.main]]
-  weight = 4
-  identifier = "archives"
-  name = "Archives"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
-  url = "/archives"
 # [[menu.main]]
-#   weight = 5
-#   identifier = "about"
-#   name = "About"
-#   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
-#   url = "/about"
+#   weight = 1
+#   identifier = "home"
+#   name = "Home"
+#   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
+#   url = "/"
+# [[menu.main]]
+#   weight = 2
+#   identifier = "categories"
+#   name = "Categories"
+#   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
+#   url = "/categories"
 
 [[menu.links]]
   weight = 0
@@ -68,12 +107,16 @@ enableEmoji = true
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
   url = "https://github.com/kakawait"
 
-[params.homeInfoParams]
-title = "Hi there 👋"
-content = "Can be Info, links, about..."
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/pyonkichi369/"
 
 [[params.socialIcons]]
-name = "github"
+  name = "twitter"
+  url = "https://twitter.com/pyonkichi369/"
 
-[[params.socialIcons]]
-name = "twitter"
+[markup.highlight]
+  style = "dracula"
+
+[markup.goldmark.renderer]
+  unsafe = true
