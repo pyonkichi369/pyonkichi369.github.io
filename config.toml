@@ -33,7 +33,7 @@ enableEmoji = true
       weight = 2
       [languages.en.params.homeInfoParams]
         title = "Hi there 👋"
-        content = "A Software Engineer @Tokyo </br>Gonna write articles in various genres. </br>Programming,Self-Enlightenment,Crypto,Lang …"
+        content = "A Software Engineer @Tokyo </br>Gonna write articles in various genres. </br>Programming, Self-Enlightenment, Crypto, Lang …"
 
 [params]
   sidebarBehavior = 2
