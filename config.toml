@@ -19,13 +19,13 @@ enableEmoji = true
 
 [languages]
   [languages.ja]
-      title = 'PYONKICHI BLOG'
+      title = 'ぴょんきちブログ'
       languageName = '🇯🇵 日本語'
       displayFullLangName = true
       weight = 1
       [languages.ja.params.homeInfoParams]
         title = "こんにちは 👋"
-        content = "とーきょーでエンジニアしてます </br>さまざまなジャンルの記事を書いていきます </br>プログラミング、自己啓発、仮想通貨、語学 …"
+        content = "とーきょーでエンジニアしてます </br>プログラミング、仮想通貨、語学、投資 … </br>さまざまなジャンルの記事を書いていきます！"
   [languages.en]
       title = 'PYONKICHI BLOG'
       languageName = '🇺🇸 English'
@@ -33,7 +33,7 @@ enableEmoji = true
       weight = 2
       [languages.en.params.homeInfoParams]
         title = "Hi there 👋"
-        content = "A Software Engineer @Tokyo </br>Gonna write articles in various genres. </br>Programming, Self-Enlightenment, Crypto, Lang …"
+        content = "A Software Engineer @Tokyo </br>Programming, Crypto, Lang, Investment … </br>I'm gonna write articles in various genres !!!"
 
 [params]
   sidebarBehavior = 2
