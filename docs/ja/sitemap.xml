@@ -74,7 +74,27 @@
                 />
   </url><url>
     <loc>https://pyonkichi369.github.io/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pyonkichi369.github.io/en/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://pyonkichi369.github.io/archives/"
+                />
   </url><url>
     <loc>https://pyonkichi369.github.io/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pyonkichi369.github.io/en/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://pyonkichi369.github.io/search/"
+                />
   </url>
 </urlset>
