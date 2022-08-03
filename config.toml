@@ -1,6 +1,6 @@
 # https://mshr-h.com/posts/new-website-with-hugo/
 
-baseURL = 'https://pyonkichi369.github.io/'
+baseURL = 'https://www.pyonkichi369.com/'
 languageCode = 'ja'
 defaultContentLanguage = 'ja'
 title = 'PYONKICHI BLOG'
