@@ -2,99 +2,123 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pyonkichi369.github.io/categories/</loc>
+    <loc>https://pyonkichi369.com/categories/</loc>
     <lastmod>2021-11-06T20:50:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pyonkichi369.github.io/en/categories/"
+                href="https://pyonkichi369.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://pyonkichi369.github.io/categories/"
+                href="https://pyonkichi369.com/categories/"
                 />
   </url><url>
-    <loc>https://pyonkichi369.github.io/posts/</loc>
+    <loc>https://pyonkichi369.com/posts/</loc>
     <lastmod>2021-11-06T20:50:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pyonkichi369.github.io/en/posts/"
+                href="https://pyonkichi369.com/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://pyonkichi369.github.io/posts/"
+                href="https://pyonkichi369.com/posts/"
                 />
   </url><url>
-    <loc>https://pyonkichi369.github.io/tags/</loc>
+    <loc>https://pyonkichi369.com/tags/</loc>
     <lastmod>2021-11-06T20:50:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pyonkichi369.github.io/en/tags/"
+                href="https://pyonkichi369.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://pyonkichi369.github.io/tags/"
+                href="https://pyonkichi369.com/tags/"
                 />
   </url><url>
-    <loc>https://pyonkichi369.github.io/tags/%E3%83%8F%E3%83%AD%E3%83%BC/</loc>
+    <loc>https://pyonkichi369.com/tags/%E3%83%8F%E3%83%AD%E3%83%BC/</loc>
     <lastmod>2021-11-06T20:50:09+09:00</lastmod>
   </url><url>
-    <loc>https://pyonkichi369.github.io/categories/%E3%83%8F%E3%83%AD%E3%83%BC/</loc>
+    <loc>https://pyonkichi369.com/categories/%E3%83%8F%E3%83%AD%E3%83%BC/</loc>
     <lastmod>2021-11-06T20:50:09+09:00</lastmod>
   </url><url>
-    <loc>https://pyonkichi369.github.io/posts/hello/</loc>
-    <lastmod>2021-11-06T20:50:09+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pyonkichi369.github.io/en/posts/hello/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pyonkichi369.github.io/posts/hello/"
-                />
-  </url><url>
-    <loc>https://pyonkichi369.github.io/</loc>
+    <loc>https://pyonkichi369.com/posts/hello/</loc>
     <lastmod>2021-11-06T20:50:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pyonkichi369.github.io/en/"
+                href="https://pyonkichi369.com/en/posts/hello/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://pyonkichi369.github.io/"
+                href="https://pyonkichi369.com/posts/hello/"
                 />
   </url><url>
-    <loc>https://pyonkichi369.github.io/archives/</loc>
+    <loc>https://pyonkichi369.com/</loc>
+    <lastmod>2021-11-06T20:50:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pyonkichi369.github.io/en/archives/"
+                href="https://pyonkichi369.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://pyonkichi369.github.io/archives/"
+                href="https://pyonkichi369.com/"
                 />
   </url><url>
-    <loc>https://pyonkichi369.github.io/search/</loc>
+    <loc>https://pyonkichi369.com/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pyonkichi369.github.io/en/search/"
+                href="https://pyonkichi369.com/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://pyonkichi369.github.io/search/"
+                href="https://pyonkichi369.com/about/"
+                />
+  </url><url>
+    <loc>https://pyonkichi369.com/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pyonkichi369.com/en/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://pyonkichi369.com/archives/"
+                />
+  </url><url>
+    <loc>https://pyonkichi369.com/pages/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pyonkichi369.com/en/pages/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://pyonkichi369.com/pages/"
+                />
+  </url><url>
+    <loc>https://pyonkichi369.com/pages/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pyonkichi369.com/en/pages/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://pyonkichi369.com/pages/search/"
                 />
   </url>
 </urlset>

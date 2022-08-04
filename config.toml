@@ -26,7 +26,7 @@ enableEmoji = true
       weight = 1
       [languages.ja.params.homeInfoParams]
         title = "こんにちは 👋"
-        content = "とーきょーでエンジニアしてます </br>プログラミング、仮想通貨、語学、投資 … </br>さまざまなジャンルの記事を書いていきます！"
+        content = "とーきょーでエンジニアしてます"
   [languages.en]
       title = 'PYONKICHI BLOG'
       languageName = '🇺🇸 English'
@@ -34,7 +34,7 @@ enableEmoji = true
       weight = 2
       [languages.en.params.homeInfoParams]
         title = "Hi there 👋"
-        content = "A Software Engineer @Tokyo </br>Programming, Crypto, Lang, Investment … </br>I'm gonna write articles in various genres !!!"
+        content = "A Software Engineer @Tokyo "
 
 [params]
   sidebarBehavior = 2
@@ -52,42 +52,64 @@ enableEmoji = true
   showCodeCopyButtons = true
   comments = true
 
-[[menu.main]]
-  weight = 1
-  identifier = "archives"
-  name = "Archives"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
-  url = "/archives"
-[[menu.main]]
-  weight = 2
-  identifier = "search"
-  name = "Search"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
-  url = "/search"
-[[menu.main]]
-  weight = 3
-  identifier = "categories"
-  name = "Categories"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
-  url = "/categories"
-[[menu.main]]
-  weight = 4
-  identifier = "tags"
-  name = "Tags"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
-  url = "/tags"
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 # [[menu.main]]
 #   weight = 1
-#   identifier = "home"
-#   name = "Home"
-#   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
-#   url = "/"
+#   identifier = "archives"
+#   name = "Archives"
+#   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
+#   url = "/archives"
 # [[menu.main]]
 #   weight = 2
+#   identifier = "search"
+#   name = "Search"
+#   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
+#   url = "/search"
+# [[menu.main]]
+#   weight = 3
 #   identifier = "categories"
 #   name = "Categories"
 #   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
 #   url = "/categories"
+# [[menu.main]]
+#   weight = 4
+#   identifier = "tags"
+#   name = "Tags"
+#   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
+#   url = "/tags"
+[[menu.main]]
+  weight = 1
+  identifier = "home"
+  name = "HOME"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
+  url = "/"
+[[menu.main]]
+  weight = 2
+  identifier = "about"
+  name = "ABOUT"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
+  url = "/about"
+[[menu.main]]
+  weight = 3
+  identifier = "categories"
+  name = "CATEGORIES"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
+  url = "/categories"
+[[menu.main]]
+  weight = 4
+  identifier = "tags"
+  name = "TAGS"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
+  url = "/tags"
+[[menu.main]]
+  weight = 5
+  identifier = "search"
+  name = "SEARCH"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
+  url = "/search"
 
 [[menu.links]]
   weight = 0
