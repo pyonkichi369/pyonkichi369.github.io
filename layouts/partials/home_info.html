@@ -6,6 +6,10 @@
 </head>
 
 <style>
+    .first-entry home-info {
+        margin: 0;
+    }
+
     .terms-tags-container {
         margin-top: 14px;
     }
@@ -24,7 +28,7 @@
 </style>
 
 {{- with site.Params.homeInfoParams }}
-<article class="first-entry home-info" style="margin: 0;">
+<article class="first-entry home-info">
     <header class="entry-header">
         <h1>{{ .Title | markdownify }}</h1>
     </header>
