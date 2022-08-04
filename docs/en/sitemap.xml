@@ -2,123 +2,123 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pyonkichi369.com/en/categories/</loc>
+    <loc>https://www.pyonkichi369.com/en/categories/</loc>
     <lastmod>2021-11-06T20:50:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://pyonkichi369.com/categories/"
+                href="https://www.pyonkichi369.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pyonkichi369.com/en/categories/"
+                href="https://www.pyonkichi369.com/en/categories/"
                 />
   </url><url>
-    <loc>https://pyonkichi369.com/en/tags/hello/</loc>
+    <loc>https://www.pyonkichi369.com/en/tags/hello/</loc>
     <lastmod>2021-11-06T20:50:09+09:00</lastmod>
   </url><url>
-    <loc>https://pyonkichi369.com/en/categories/hello/</loc>
+    <loc>https://www.pyonkichi369.com/en/categories/hello/</loc>
     <lastmod>2021-11-06T20:50:09+09:00</lastmod>
   </url><url>
-    <loc>https://pyonkichi369.com/en/posts/hello/</loc>
-    <lastmod>2021-11-06T20:50:09+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pyonkichi369.com/posts/hello/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pyonkichi369.com/en/posts/hello/"
-                />
-  </url><url>
-    <loc>https://pyonkichi369.com/en/posts/</loc>
+    <loc>https://www.pyonkichi369.com/en/posts/hello/</loc>
     <lastmod>2021-11-06T20:50:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://pyonkichi369.com/posts/"
+                href="https://www.pyonkichi369.com/posts/hello/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pyonkichi369.com/en/posts/"
+                href="https://www.pyonkichi369.com/en/posts/hello/"
                 />
   </url><url>
-    <loc>https://pyonkichi369.com/en/</loc>
+    <loc>https://www.pyonkichi369.com/en/posts/</loc>
     <lastmod>2021-11-06T20:50:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://pyonkichi369.com/"
+                href="https://www.pyonkichi369.com/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pyonkichi369.com/en/"
+                href="https://www.pyonkichi369.com/en/posts/"
                 />
   </url><url>
-    <loc>https://pyonkichi369.com/en/tags/</loc>
+    <loc>https://www.pyonkichi369.com/en/</loc>
     <lastmod>2021-11-06T20:50:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://pyonkichi369.com/tags/"
+                href="https://www.pyonkichi369.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pyonkichi369.com/en/tags/"
+                href="https://www.pyonkichi369.com/en/"
                 />
   </url><url>
-    <loc>https://pyonkichi369.com/en/about/</loc>
+    <loc>https://www.pyonkichi369.com/en/tags/</loc>
+    <lastmod>2021-11-06T20:50:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://pyonkichi369.com/about/"
+                href="https://www.pyonkichi369.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pyonkichi369.com/en/about/"
+                href="https://www.pyonkichi369.com/en/tags/"
                 />
   </url><url>
-    <loc>https://pyonkichi369.com/en/archives/</loc>
+    <loc>https://www.pyonkichi369.com/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://pyonkichi369.com/archives/"
+                href="https://www.pyonkichi369.com/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pyonkichi369.com/en/archives/"
+                href="https://www.pyonkichi369.com/en/about/"
                 />
   </url><url>
-    <loc>https://pyonkichi369.com/en/pages/</loc>
+    <loc>https://www.pyonkichi369.com/en/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://pyonkichi369.com/pages/"
+                href="https://www.pyonkichi369.com/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pyonkichi369.com/en/pages/"
+                href="https://www.pyonkichi369.com/en/archives/"
                 />
   </url><url>
-    <loc>https://pyonkichi369.com/en/pages/search/</loc>
+    <loc>https://www.pyonkichi369.com/en/pages/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://pyonkichi369.com/pages/search/"
+                href="https://www.pyonkichi369.com/pages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pyonkichi369.com/en/pages/search/"
+                href="https://www.pyonkichi369.com/en/pages/"
+                />
+  </url><url>
+    <loc>https://www.pyonkichi369.com/en/pages/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.pyonkichi369.com/pages/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pyonkichi369.com/en/pages/search/"
                 />
   </url>
 </urlset>

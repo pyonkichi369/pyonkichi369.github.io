@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on ぴょんきちブログ</title>
-    <link>https://pyonkichi369.com/posts/</link>
+    <link>https://www.pyonkichi369.com/posts/</link>
     <description>Recent content in Posts on ぴょんきちブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 06 Nov 2021 20:50:09 +0900</lastBuildDate><atom:link href="https://pyonkichi369.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Nov 2021 20:50:09 +0900</lastBuildDate><atom:link href="https://www.pyonkichi369.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ハロー</title>
-      <link>https://pyonkichi369.com/posts/hello/</link>
+      <link>https://www.pyonkichi369.com/posts/hello/</link>
       <pubDate>Sat, 06 Nov 2021 20:50:09 +0900</pubDate>
       
-      <guid>https://pyonkichi369.com/posts/hello/</guid>
+      <guid>https://www.pyonkichi369.com/posts/hello/</guid>
       <description>ハロー</description>
     </item>
     
