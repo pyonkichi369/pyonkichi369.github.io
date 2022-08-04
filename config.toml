@@ -56,30 +56,6 @@ enableEmoji = true
   tag = "tags"
   category = "categories"
 
-# [[menu.main]]
-#   weight = 1
-#   identifier = "archives"
-#   name = "Archives"
-#   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
-#   url = "/archives"
-# [[menu.main]]
-#   weight = 2
-#   identifier = "search"
-#   name = "Search"
-#   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
-#   url = "/search"
-# [[menu.main]]
-#   weight = 3
-#   identifier = "categories"
-#   name = "Categories"
-#   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
-#   url = "/categories"
-# [[menu.main]]
-#   weight = 4
-#   identifier = "tags"
-#   name = "Tags"
-#   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
-#   url = "/tags"
 [[menu.main]]
   weight = 1
   identifier = "home"
@@ -134,8 +110,9 @@ enableEmoji = true
   name = "rss"
   url = "index.xml"
 
-[markup.highlight]
-  style = "dracula"
-
-[markup.goldmark.renderer]
-  unsafe = true
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
