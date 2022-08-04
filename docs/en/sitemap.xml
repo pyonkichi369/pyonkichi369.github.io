@@ -109,16 +109,16 @@
                 href="https://www.pyonkichi369.com/en/pages/"
                 />
   </url><url>
-    <loc>https://www.pyonkichi369.com/en/pages/search/</loc>
+    <loc>https://www.pyonkichi369.com/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://www.pyonkichi369.com/pages/search/"
+                href="https://www.pyonkichi369.com/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.pyonkichi369.com/en/pages/search/"
+                href="https://www.pyonkichi369.com/en/search/"
                 />
   </url>
 </urlset>
