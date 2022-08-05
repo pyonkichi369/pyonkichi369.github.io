@@ -41,23 +41,36 @@
                 href="https://www.pyonkichi369.com/tags/"
                 />
   </url><url>
+    <loc>https://www.pyonkichi369.com/posts/other/</loc>
+    <lastmod>2021-11-06T20:50:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pyonkichi369.com/en/posts/other/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.pyonkichi369.com/posts/other/"
+                />
+  </url><url>
     <loc>https://www.pyonkichi369.com/tags/%E3%83%8F%E3%83%AD%E3%83%BC/</loc>
     <lastmod>2021-11-06T20:50:09+09:00</lastmod>
   </url><url>
     <loc>https://www.pyonkichi369.com/categories/%E3%83%8F%E3%83%AD%E3%83%BC/</loc>
     <lastmod>2021-11-06T20:50:09+09:00</lastmod>
   </url><url>
-    <loc>https://www.pyonkichi369.com/posts/hello/</loc>
+    <loc>https://www.pyonkichi369.com/posts/other/hello/</loc>
     <lastmod>2021-11-06T20:50:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.pyonkichi369.com/en/posts/hello/"
+                href="https://www.pyonkichi369.com/en/posts/other/hello/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://www.pyonkichi369.com/posts/hello/"
+                href="https://www.pyonkichi369.com/posts/other/hello/"
                 />
   </url><url>
     <loc>https://www.pyonkichi369.com/</loc>
@@ -107,6 +120,30 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://www.pyonkichi369.com/search/"
+                />
+  </url><url>
+    <loc>https://www.pyonkichi369.com/posts/programming/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pyonkichi369.com/en/posts/programming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.pyonkichi369.com/posts/programming/"
+                />
+  </url><url>
+    <loc>https://www.pyonkichi369.com/posts/investment/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pyonkichi369.com/en/posts/investment/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.pyonkichi369.com/posts/investment/"
                 />
   </url>
 </urlset>
