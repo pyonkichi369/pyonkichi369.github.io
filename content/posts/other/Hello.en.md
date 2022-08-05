@@ -2,7 +2,7 @@
 title: "Hello"
 date: 2021-11-06T20:50:09+09:00
 categories:
-    - Hello
+    - other
 tags:
     - Hello
 keywords:

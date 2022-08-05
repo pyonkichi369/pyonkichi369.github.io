@@ -60,32 +60,33 @@ enableEmoji = true
   weight = 1
   identifier = "home"
   name = "HOME"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
   url = "/"
 [[menu.main]]
   weight = 2
   identifier = "about"
   name = "ABOUT"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
   url = "/about"
 [[menu.main]]
   weight = 3
-  identifier = "categories"
-  name = "CATEGORIES"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
-  url = "/categories"
+  identifier = "posts"
+  name = "POSTS"
+  url = "/posts"
 [[menu.main]]
   weight = 4
-  identifier = "tags"
-  name = "TAGS"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
-  url = "/tags"
+  identifier = "categories"
+  name = "CATEGORIES"
+  url = "/categories"
 [[menu.main]]
   weight = 5
-  identifier = "search"
-  name = "SEARCH"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
-  url = "/search"
+  identifier = "tags"
+  name = "TAGS"
+  url = "/tags"
+# [[menu.main]]
+#   weight = 5
+#   identifier = "search"
+#   name = "SEARCH"
+#   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
+#   url = "/search"
 
 [[menu.links]]
   weight = 0
