@@ -81,12 +81,11 @@ enableEmoji = true
   identifier = "tags"
   name = "TAGS"
   url = "/tags"
-# [[menu.main]]
-#   weight = 5
-#   identifier = "search"
-#   name = "SEARCH"
-#   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
-#   url = "/search"
+[[menu.main]]
+  weight = 6
+  identifier = "search"
+  name = "SEARCH"
+  url = "/search"
 
 [[menu.links]]
   weight = 0

@@ -44,7 +44,7 @@
         <div class="logo">
             {{- $label_text := (site.Params.label.text | default site.Title) }}
             {{- if site.Title }}
-            <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)" style="font-size: 22px;">
+            <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
                 {{- if site.Params.label.icon }}
                 {{- $img := resources.Get site.Params.label.icon }}
                 {{- if $img }}
@@ -117,10 +117,6 @@
                     {{- end}}
                 </ul>
                 {{- end }}
-
-                <a href="{{ "" | absLangURL }}search">
-                    <p style="margin: auto 4px;"><i class="fa fa-search" aria-hidden="true"></i></p>
-                </a>
 
             </div>
         </div>
