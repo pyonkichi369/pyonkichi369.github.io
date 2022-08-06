@@ -35,8 +35,6 @@
   </div>
   {{- end }}
 
-  {{ partial "utterances.html" . }}
-
   {{ $v1 := (where .Site.RegularPages "Section" "topics" )}}
   {{ $v2 := (where .Site.RegularPages ".Params.slug" "!=" .Params.slug)}}
   {{ $related:= $v1 | intersect $v2 }}
@@ -63,9 +61,8 @@
     {{- end }}
   </footer>
 
-  {{- if (.Param "comments") }}
-  {{- partial "comments.html" . }}
-  {{- end }}
+  {{ partial "utterances.html" . }}
+
 </article>
 
 {{- end }}{{/* end main */}}
