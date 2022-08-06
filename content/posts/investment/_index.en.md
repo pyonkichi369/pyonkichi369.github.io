@@ -1,3 +1,3 @@
 ---
-title: investment
+title: Investment
 ---
