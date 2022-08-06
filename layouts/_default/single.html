@@ -35,6 +35,8 @@
   </div>
   {{- end }}
 
+  {{ partial "utterances.html" . }}
+
   {{ $v1 := (where .Site.RegularPages "Section" "topics" )}}
   {{ $v2 := (where .Site.RegularPages ".Params.slug" "!=" .Params.slug)}}
   {{ $related:= $v1 | intersect $v2 }}

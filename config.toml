@@ -10,6 +10,7 @@ publishDir = 'docs'
 searchHidden = false
 enableEmoji = true
 googleAnalytics = "G-HSQ9DBX6WJ"
+enableUtterances = true
 
 [author]
   name = "ぴょんきち"
