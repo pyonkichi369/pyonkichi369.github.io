@@ -4,9 +4,11 @@ date: 2021-11-06T20:50:09+09:00
 categories:
     - Other
 tags:
-    - Hello
+    - tag1
+    - tag2
 keywords:
-    - Hello
+    - keyword1
+    - keyword2
 showMeta: true
 showActions: false
 cover:

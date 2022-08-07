@@ -15,9 +15,6 @@
                 href="https://www.pyonkichi369.com/en/categories/"
                 />
   </url><url>
-    <loc>https://www.pyonkichi369.com/en/tags/hello/</loc>
-    <lastmod>2021-11-06T20:50:09+09:00</lastmod>
-  </url><url>
     <loc>https://www.pyonkichi369.com/en/posts/other/hello/</loc>
     <lastmod>2021-11-06T20:50:09+09:00</lastmod>
     <xhtml:link
@@ -72,6 +69,12 @@
                 hreflang="en"
                 href="https://www.pyonkichi369.com/en/"
                 />
+  </url><url>
+    <loc>https://www.pyonkichi369.com/en/tags/tag1/</loc>
+    <lastmod>2021-11-06T20:50:09+09:00</lastmod>
+  </url><url>
+    <loc>https://www.pyonkichi369.com/en/tags/tag2/</loc>
+    <lastmod>2021-11-06T20:50:09+09:00</lastmod>
   </url><url>
     <loc>https://www.pyonkichi369.com/en/tags/</loc>
     <lastmod>2021-11-06T20:50:09+09:00</lastmod>
