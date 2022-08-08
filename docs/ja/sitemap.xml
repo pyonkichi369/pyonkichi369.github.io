@@ -125,6 +125,18 @@
                 href="https://www.pyonkichi369.com/search/"
                 />
   </url><url>
+    <loc>https://www.pyonkichi369.com/privacy-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pyonkichi369.com/en/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.pyonkichi369.com/privacy-policy/"
+                />
+  </url><url>
     <loc>https://www.pyonkichi369.com/posts/tech/</loc>
     <xhtml:link
                 rel="alternate"
