@@ -5,49 +5,49 @@ url: "/en/privacy-policy/"
 summary: privacy-polic 
 ---
 
-## 【 ぴょんきちブログ 】 プライバシーポリシー
-【 ぴょんきちブログ 】(以下「当ブログ」)のプライバシーポリシー・免責事項を次の通り記載します。
+## 【 PYONKICHI BLOG 】Privacy Policy
+The privacy policy and disclaimer of 【 PYONKICHI BLOG 】( hereinafter referred to as "this blog" ) are described as follows.
 
-### 個人情報の利用目的について
-当ブログでは、お問い合わせやコメント投稿の際に氏名・メールアドレス等の個人情報を入力いただく場合があります。
-取得した個人情報は、必要な連絡のみに利用させていただくもので、これらの目的以外では利用いたしません。
+### Purpose of use of personal information
+In this blog, we may ask you to enter personal information such as your name and email address when you make an inquiry or post a comment.
+The acquired personal information will be used only for necessary contact and will not be used for any other purpose.
 
-### 個人情報の第三者開示について
-取得した個人情報は適切に管理し、以下に該当する場合を除いて第三者に開示することはありません。
-- 本人の同意が得られた場合
-- 法令により開示が求められた場合
+### Disclosure of Personal Information to Third Parties
+Acquired personal information will be managed appropriately and will not be disclosed to third parties except in the following cases.
+- When the person's consent is obtained
+- When disclosure is required by law
 
-### Cookieの使用について
-当ブログでは、広告配信やアクセス解析のためにCookieを使用しています
-Cookieによりブラウザを識別していますが、特定の個人の識別はできない状態で匿名性が保たれています。
-Cookieの使用を望まない場合、ブラウザからCookieを無効に設定できます。
+### Use of Cookies
+This blog uses cookies for advertisement distribution and access analysis.
+Although browsers are identified by cookies, anonymity is maintained in a state where specific individuals cannot be identified.
+If you do not wish to use cookies, you can disable cookies in your browser.
 
-### 広告配信サービスについて
-当ブログでは、第三者配信の広告サービスを利用して広告を掲載しています。
-第三者配信事業者は、ユーザーの興味に応じたパーソナライズ広告を表示するためにCookieを使用しています。
-パーソナライズ広告は、広告設定で無効にできます。また、www.aboutads.infoで第三者配信事業者のCookieを無効にすることができます。
-Amazonのアソシエイトとして、[ ぴょんきちブログ ]は適格販売により収入を得ています。
+### About the ad distribution service
+This blog uses third-party advertising services to display advertisements.
+Third-party vendors use cookies to display personalized advertisements based on your interests.
+Personalized ads can be disabled in your Ads Settings. You can also disable third-party vendor cookies at www.aboutads.info.
+As an Amazon Associate, 【 PYONKICHI BLOG 】earns income from qualifying sales.
 
-### アクセス解析ツールについて
-当ブログでは、Googleアナリティクスによりアクセス情報を解析しています。
-アクセス情報の解析にはCookieを使用しています。また、アクセス情報の収集はCookieを無効にすることで拒否できます。
-Google社のデータ収集・処理の仕組みについては、こちらをご覧ください。
+### About access analysis tools
+This blog uses Google Analytics to analyze access information.
+We use cookies to analyze access information. You can also refuse to collect access information by disabling cookies.
+For information on how Google collects and processes data, please see here.
 
-### 免責事項
-当ブログは、掲載内容によって生じた損害に対する一切の責任を負いません。
-各コンテンツでは、できる限り正確な情報提供を心がけておりますが、正確性や安全性を保証するものではありません。
-また、リンク先の他サイトで提供される情報・サービスについても、責任を負いかねますのでご了承ください。
+### Disclaimer
+This blog does not take any responsibility for damage caused by the posted content.
+In each content, we try to provide information as accurately as possible, but we do not guarantee accuracy or safety.
+Also, please note that we are not responsible for the information and services provided on other linked sites.
 
-### 著作権
-当ブログに掲載されている文章・画像の著作権は、運営者に帰属しています。
-法的に認められている引用の範囲を超えて、無断で転載することを禁止します。
+### Copyright
+The copyright of the texts and images posted on this blog belongs to the operator.
+Unauthorized reproduction beyond the scope of legally permitted quotation is prohibited.
 
-### プライバシーポリシーの変更
-当ブログは、個人情報に関して適用される日本の法令を遵守するとともに、本プライバシーポリシーの内容を適宜見直して改善に努めます。
-修正された最新のプライバシーポリシーは常に本ページにて開示されます。
+### Changes to the Privacy Policy
+This blog will comply with Japanese laws and regulations that apply to personal information, and will review and improve the content of this privacy policy as appropriate.
+The latest amended Privacy Policy will always be disclosed on this page.
 
-制定日:2022年08月08日</br>
-改定日:2022年08月08日
+Date of enactment: August 8, 2022</br>
+Date of revision: August 8, 2022
 
-【 ぴょんきちブログ 】</br>
-【 ぴょんきち 】
+PYONKICHI BLOG</br>
+pyonkichi
