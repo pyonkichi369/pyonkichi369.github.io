@@ -1,4 +1,0 @@
----
-title: Language
-summary: Japanese
----
