@@ -2,8 +2,15 @@
 title: "Privacy Policy"
 layout: "privacy-policy"
 url: "/en/privacy-policy/"
-summary: privacy-polic 
+summary: privacy-policy
 ---
+
+<style>
+    .utterances {  
+        display: none;
+    }
+
+</style>  
 
 ## 【 PYONKICHI BLOG 】Privacy Policy
 The privacy policy and disclaimer of 【 PYONKICHI BLOG 】( hereinafter referred to as "this blog" ) are described as follows.

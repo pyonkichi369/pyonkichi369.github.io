@@ -5,6 +5,13 @@ url: "/en/about/"
 summary: about
 ---
 
+<style>
+    .utterances {  
+        display: none;
+    }
+
+</style>  
+
 [comment]: <> (https://devicon.dev/)
 
 ## EX SKILLS

@@ -125,6 +125,18 @@
                 href="https://www.pyonkichi369.com/search/"
                 />
   </url><url>
+    <loc>https://www.pyonkichi369.com/posts/engineering/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pyonkichi369.com/en/posts/engineering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.pyonkichi369.com/posts/engineering/"
+                />
+  </url><url>
     <loc>https://www.pyonkichi369.com/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -137,16 +149,16 @@
                 href="https://www.pyonkichi369.com/privacy-policy/"
                 />
   </url><url>
-    <loc>https://www.pyonkichi369.com/posts/tech/</loc>
+    <loc>https://www.pyonkichi369.com/posts/language/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.pyonkichi369.com/en/posts/tech/"
+                href="https://www.pyonkichi369.com/en/posts/language/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://www.pyonkichi369.com/posts/tech/"
+                href="https://www.pyonkichi369.com/posts/language/"
                 />
   </url><url>
     <loc>https://www.pyonkichi369.com/posts/hobby/</loc>

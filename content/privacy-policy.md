@@ -5,6 +5,13 @@ url: "/privacy-policy/"
 summary: privacy-policy
 ---
 
+<style>
+    .utterances {  
+        display: none;
+    }
+
+</style>  
+
 ## 【 ぴょんきちブログ 】 プライバシーポリシー
 【 ぴょんきちブログ 】(以下「当ブログ」)のプライバシーポリシー・免責事項を次の通り記載します。
 

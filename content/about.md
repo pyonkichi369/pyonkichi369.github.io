@@ -5,6 +5,13 @@ url: "/about/"
 summary: about
 ---
 
+<style>
+    .utterances {  
+        display: none;
+    }
+
+</style>  
+
 [comment]: <> (https://devicon.dev/)
 
 ## 経験スキル
