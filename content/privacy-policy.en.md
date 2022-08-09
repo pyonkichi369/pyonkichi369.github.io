@@ -46,8 +46,8 @@ Unauthorized reproduction beyond the scope of legally permitted quotation is pro
 This blog will comply with Japanese laws and regulations that apply to personal information, and will review and improve the content of this privacy policy as appropriate.
 The latest amended Privacy Policy will always be disclosed on this page.
 
-Date of enactment: August 8, 2022</br>
-Date of revision: August 8, 2022
+Date of enactment：August 8, 2022</br>
+Date of revision：August 8, 2022
 
 PYONKICHI BLOG</br>
 pyonkichi
