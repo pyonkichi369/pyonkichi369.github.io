@@ -25,17 +25,45 @@ googleAnalytics = "G-HSQ9DBX6WJ"
       languageName = '🇯🇵 日本語'
       displayFullLangName = true
       weight = 1
+      [languages.ja.params]
+        keywords = [
+           "エンジニアリング",
+           "プログラミング",
+           "エンジニア",
+           "プログラマー",
+           "英単語",
+           "英語",
+           "投資",
+           "仮想通貨",
+           "暗号資産",
+           "バイナリーオプション",
+           "BO"
+        ]
+        description = "これからエンジニアを目指したい人と思っていませんか？何から始めたらいいのか迷っていませんか？現役エンジニアを勤めているぴょんきちがお悩みを解決します！エンジニアリング関連の記事を中心に様々なジャンルの知識や話題を提供する雑記ブログです。"
       [languages.ja.params.homeInfoParams]
         title = "こんにちは 👋"
-        content = "とーきょーでエンジニアしてます "
+        content = "とーきょーでエンジニアしてます。</br>お悩みや相談があれば是非ご連絡を！🤝"
   [languages.en]
       title = 'PYONKICHI BLOG'
       languageName = '🇺🇸 English'
       displayFullLangName = true
       weight = 2
+      [languages.en.params]
+        keywords = [
+          "Engineering",
+          "Programming",
+          "Engineer",
+          "Programmer",
+          "Japanese",
+          "Investment",
+          "Crypto",
+          "Binary Option",
+          "BO"
+        ]
+        description = "Do you think you want to become an engineer in the future? Not sure where to start? Pyonkichi, who works as an active engineer, will solve that problem! This is a miscellaneous blog that provides knowledge and topics in various genres, focusing on engineering-related articles."
       [languages.en.params.homeInfoParams]
         title = "Hi there 👋"
-        content = "A Software Engineer @Tokyo "
+        content = "A Software Engineer @Tokyo.</br>If you have any questions or concerns, please contact us！🤝"
 
 [params]
   sidebarBehavior = 2
@@ -104,12 +132,8 @@ googleAnalytics = "G-HSQ9DBX6WJ"
   url = "https://twitter.com/pyonkichi369/"
 
 [[params.socialIcons]]
-  name = "email"
-  url = "mailto:belle.official369@gmail.com"
-
-[[params.socialIcons]]
   name = "rss"
-  url = "index.xml"
+  url = "https://feedly.com/i/subscription/feed/https://www.pyonkichi369.com/index.xml"
 
 [markup]
   [markup.highlight]
