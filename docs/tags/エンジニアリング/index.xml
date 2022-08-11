@@ -6,7 +6,31 @@
     <description>Recent content in エンジニアリング on ぴょんきちブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.pyonkichi369.com/tags/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.pyonkichi369.com/tags/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>エンジニアを目指すなら覚えておきたい英単語 ベーシック 頭文字B</title>
+      <link>https://www.pyonkichi369.com/posts/engineering/english-for-engineer-basic-b/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.pyonkichi369.com/posts/engineering/english-for-engineer-basic-b/</guid>
+      <description>こんにちは、ぴょんきちです！
+「 エンジニアになりたいんだけど、何から勉強したらいいの？ 」「 どんなスキルが必要なの？ 」 など迷っている方必見です！
+この記事は次のような人におすすめ！
+エンジニアを目指している 何から学ぶべきか迷っている この記事でご紹介する「英単語」を最低限覚えておけば、困ることはないでしょう。
+なぜなら、実際に現役エンジニアである私も毎日のように「英単語」に触れているからです。
+これからエンジニアを目指して勉強を始めようと考えている方は、ぜひ参考にしてみてくださいね！
+それでは、始めましょう！
+B backup【 名詞 】
+バックアップ You should better create a backup data.（ データのバックアップを作成した方がよい ）
+based【 形容詞 】
+ベースの、〜に基づく Network-based location system. （ ネットワークに基づくロケーション・システム ）
+bit【 名詞 】
+ビット All passwords use 160 bit encryption.（ すべてのパスワードは160ビット暗号を使用します ）
+※ コンピュータが扱うデータの最小単位のこと。 コンピュータの世界ではすべての情報が2進数で処理されているが、その1桁のことを1ビット（bit）という。
+blank【 形容詞 】
+空白の Why is my website shows blank page? The blank page is usually caused by a php error.</description>
+    </item>
+    
     <item>
       <title>エンジニアを目指すなら覚えておきたい英単語 ベーシック 頭文字A</title>
       <link>https://www.pyonkichi369.com/posts/engineering/english-for-engineer-basic-a/</link>
