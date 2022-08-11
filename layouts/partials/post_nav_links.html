@@ -1,0 +1,40 @@
+<style>
+    .paginav {
+      padding: 0.5rem 1rem;
+      margin: 10px 0;
+      display: revert !important;
+      line-height: 30px;
+      border-radius: var(--radius);
+    }
+
+    .paginav .next {
+      display: table-cell;
+    }
+
+    .paginav a {
+      padding-inline-start: 0px !important;
+      padding-inline-end: 0px !important;
+      border-radius: var(--radius);
+    }
+
+</style>
+
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- if and (gt (len $pages) 1) (in $pages . ) }}
+<nav class="paginav">
+  {{- with $pages.Next . }}
+  <a class="prev" href="{{ .Permalink }}">
+    <span class="title">« {{ i18n "prev_page" }}</span>
+    <br>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+  {{- with $pages.Prev . }}
+  <a class="next" href="{{ .Permalink }}">
+    <span class="title">{{ i18n "next_page" }} »</span>
+    <br>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+</nav>
+{{- end }}
