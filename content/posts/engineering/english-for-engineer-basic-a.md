@@ -67,16 +67,106 @@ cover:
 
 それでは、始めましょう！
 
+<hr>
+
 ## A
 
-
-> accept【動詞】
+> accept【 動詞 】
 
 受諾する、受け入れる</br>
 I want you to accept my request.（ 私はあなたに私の要求を承認してほしいです ）
 
-> access【動詞／名詞】
+> access【 動詞／名詞 】
 
 アクセスする、利用する、入手する／アクセス</br>
 You don't have permission to access / on this server.（ あなたはこのサーバーへのアクセス権限を所持していません ）
 
+> account【 名詞 】
+
+アカウント、口座</br>
+Do you know the password to login to this account?（ このアカウントにログインするためのパスワードを知ってますか？ ）
+
+> algorithm【 名詞 】
+
+アルゴリズム ≒ 手法、計算法</br>
+A sorting algorithm is a method for reorganizing a large number of items into a specific order.（ ソートアルゴリズムは多数のアイテムを特定の順番に再編成するための方法です ）
+
+> allow【 動詞 】
+
+可能にする、許可する</br>
+This permission allows you to access this database server.（ この権限はあなたがデータベースサーバーにアクセスすることを可能にします ）
+
+> alternative【 形容詞 】
+
+代替の
+Provides support for alternative implementations of the protocol.（ プロトコルの別の実装に対するサポートを提供します ）
+
+※ protocol：お約束事のこと。多くの場合は「通信する上でのお約束事」のことをプロトコルと表現します。
+
+> application【 名詞 】
+
+アプリケーション</br>
+We are developing a new entertainment application.（ 新しいエンタメアプリケーションを開発中です ）
+
+> apply【 動詞 】
+
+適用する</br>
+My development team applies scrum of agile software development as a basic development process.（ 私の開発チームは基本的な開発手法としてアジャイル開発のスクラムを適用しています ）
+
+> argument【 名詞 】
+
+引数、実引数</br>
+This function needs a few arguments.（ この関数はいくつかの引数を必要とします ）
+
+> array【 名詞 】
+
+配列</br>
+This function returns an array of objects or an empty array.（ この関数はオブジェクトの配列を返しますが、エラーが発生した場合は空の配列を返します ）
+
+> attribute【 名詞 】
+
+属性</br>
+Cannot update a read-only setting or attribute.（ 読み取り専用の設定または属性を更新できません ）
+
+> audio【 名詞 】
+
+オーディオ、音声</br>
+The audio gets out of sync.（ 音声がズレています ）
+
+> author【 名詞 】
+
+作成者</br>
+Who is the author of this code!? Oh, I wrote this myself...（ 誰がこのコードの作成者だろう！？あ、自分で書いたコードだった ）
+
+> available【 形容詞 】
+
+利用可能な、入手可能な</br>
+Our application is now available on several countries.（ 私たちのアプリケーションは現在いくつかの国で利用可能です ）
+
+> avoid【 動詞 】
+
+受諾する、受け入れる</br>
+Henceforth, avoid including a version number.（ これからは、バージョン番号を含めることを避けること ）
+
+<hr>
+
+いかがでしたでしょうか？
+
+エンジニアを目指すなら覚えておきたい英単語に範囲を絞りましたが数が多いので、今回は頭文字がAの単語に絞って例文を使って解説しました。
+
+また、***英単語の学習だけでは心配な方***や***もっと効率的に学習を進めたい方***もいるかと思いますので、エンジニアリングについても並行して学習することをおすすめします。
+
+おすすめは <a href="https://px.a8.net/svt/ejp?a8mat=3NGNRZ+26L8MQ+4Z24+5YRHE" rel="nofollow">Recursion（リカージョン）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=3NGNRZ+26L8MQ+4Z24+5YRHE" alt="">というサービスです。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3NGNRZ+26L8MQ+4Z24+5Z6WX" rel="nofollow">
+<img border="0" width="468" height="60" alt="" src="https://www28.a8.net/svt/bgt?aid=220807007132&wid=001&eno=01&mid=s00000023206001004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3NGNRZ+26L8MQ+4Z24+5Z6WX" alt="">
+
+無料会員でも、エンジニアを目指すには避けては通れないコンピュータサイエンスを150コンテンツより学習できます！
+
+これだけでも***プログラミングの基礎を十分に身に付けることが可能***になっています！
+
+次の記事では、頭文字がBの単語に絞って解説をしようと思います！
+
+それでは、また次回！
