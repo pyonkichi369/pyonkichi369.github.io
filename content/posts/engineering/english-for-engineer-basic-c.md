@@ -100,7 +100,7 @@ Defines default character code detection order.（ 文字コード検出のデ�
 
 > checkbox【 名詞 】
 
-チェックボックス
+チェックボックス</br>
 Select the checkbox to install plug-ins.（ このチェックボックスをオンにしてプラグインをインストールします ）
 
 > choice【 名詞 】
@@ -196,7 +196,101 @@ Four different configuration programs read Config Language.（ 4つの異なる�
 接続する</br>
 You can connect multiple cameras and compare real-time images.（ 複数台のカメラを繋ぎ、リアルタイムの画像を比較できます ）
 
-… 執筆中
+> connection【 名詞 】
+
+接続</br>
+Commits all pending transactions on the connection.（ その接続におけるすべての実行中のトランザクションをコミットします ）
+
+> console【 名詞 】
+
+コンソール</br>
+
+Google Play Developer Console is the platform that Google provides for Google Play and Android developers to publish and monitor their app's performance in the Google Play store.（ Google Play デベロッパー コンソールは、Google が Google Play および Android デベロッパー向けに提供するプラットフォームで、Google Play ストアでアプリのパフォーマンスを公開および監視します ）
+
+> constant【 名詞／形容詞 】
+
+定数／一定の</br>
+Checks whether a given named constant exists.（ 指定した名前の定数が存在するかどうかを調べる ）
+
+> constructor【 名詞 】
+
+コンストラクター</br>
+The constructor you see is the one that's automatically synthesized by the compiler.（ 表示されるコンストラクターは、コンパイラーによって自動的に合成されたものです ）
+
+> contain【 動詞 】
+
+含む</br>
+Returns true if the DB contains the specified key.（ DBに指定のキーが含まれていたらtrueを返す ）
+
+> container【 名詞 】
+
+コンテナー</br>
+Each product has its own applicative container.（ プロダクトは、それぞれ専用のアプリケーションコンテナが設定されています ）
+
+> content【 名詞 】
+
+内容、コンテンツ</br>
+Problems uploading content to the server.（ コンテンツをサーバーにアップロードする際の問題 ）
+
+> context【 名詞 】
+
+コンテキスト、文脈</br>
+The thread ID is used to uniquely identify threads stored in a context cache.（ スレッドIDは、コンテキストキャッシュに格納されているスレッドを一意に識別するために用いる ）
+
+> continue【 動詞 】
+
+続行する</br>
+You are required to uninstall it before setup can continue.（ セットアップを続ける前に、このソフトウェアをアンインストールする必要があります ）
+
+> control【 名詞／動詞 】
+
+制御、コントロール／制御する</br>
+It's impossible to control them completely.（ それらを完全にコントロールするのは不可能です ）
+
+> cookie【 名詞 】
+
+クッキー</br>
+HTTP cookie handling for for web clients.（ Webクライアント向けの　HTTP　クッキー処理です ）
+
+> core【 名詞／形容詞 】
+
+コア／最重要の</br>
+All core server processes have XML entry points.（ すべてのコア・サーバ・プロセスはXMLエントリー・ポイントを保持します ）
+
+> correctly【 副詞 】
+
+正しく、正常に</br>
+This device is not configured correctly.（ このデバイスは正しく構成されていません ）
+
+> count【 動詞／名詞 】
+
+数える／回数、数</br>
+Returns the count of errors for this file.（ このファイルでのエラー回数を返す ）
+
+> current【 形容詞 】
+
+現在の</br>
+Import may overwrite your current settings.（ インポートにより、現在お使いの設定が上書きされることがあります ）
+
+> core【 名詞／形容詞 】
+
+コア／最重要の</br>
+All core server processes have XML entry points.（ すべてのコア・サーバ・プロセスはXMLエントリー・ポイントを保持します ）
+
+> cursor【 名詞 】
+
+カーソル</br>
+Move cursor to an attribute by index.（ 指定したインデックスの属性にカーソルを移動する ）
+
+> custom【 形容詞 】
+
+カスタムの、ユーザー設定の</br>
+The generated or custom timestamp of last modification.（ 生成された、あるいは独自の最終更新タイムスタンプ ）
+
+> customize【 動詞 】
+
+カスタマイズする</br>
+Customize existing control.（ 既存のコントロールをカスタマイズする ）
 
 <hr>
 
