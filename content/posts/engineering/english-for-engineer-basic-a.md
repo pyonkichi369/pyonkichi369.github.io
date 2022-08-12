@@ -73,27 +73,32 @@ cover:
 
 > accept【 動詞 】
 
-受諾する、受け入れる</br>
+受諾する、受け入れる
+
 I want you to accept my request.（ 私はあなたに私の要求を承認してほしいです ）
 
 > access【 動詞／名詞 】
 
-アクセスする、利用する、入手する／アクセス</br>
+アクセスする、利用する、入手する／アクセス
+
 You don't have permission to access / on this server.（ あなたはこのサーバーへのアクセス権限を所持していません ）
 
 > account【 名詞 】
 
-アカウント、口座</br>
+アカウント、口座
+
 Do you know the password to login to this account?（ このアカウントにログインするためのパスワードを知ってますか？ ）
 
 > algorithm【 名詞 】
 
-アルゴリズム ≒ 手法、計算法</br>
+アルゴリズム ≒ 手法、計算法
+
 A sorting algorithm is a method for reorganizing a large number of items into a specific order.（ ソートアルゴリズムは多数のアイテムを特定の順番に再編成するための方法です ）
 
 > allow【 動詞 】
 
-可能にする、許可する</br>
+可能にする、許可する
+
 This permission allows you to access this database server.（ この権限はあなたがデータベースサーバーにアクセスすることを可能にします ）
 
 > alternative【 形容詞 】
@@ -105,47 +110,56 @@ Provides support for alternative implementations of the protocol.（ プロト�
 
 > application【 名詞 】
 
-アプリケーション</br>
+アプリケーション
+
 We are developing a new entertainment application.（ 新しいエンタメアプリケーションを開発中です ）
 
 > apply【 動詞 】
 
-適用する</br>
+適用する
+
 My development team applies scrum of agile software development as a basic development process.（ 私の開発チームは基本的な開発手法としてアジャイル開発のスクラムを適用しています ）
 
 > argument【 名詞 】
 
-引数、実引数</br>
+引数、実引数
+
 This function needs a few arguments.（ この関数はいくつかの引数を必要とします ）
 
 > array【 名詞 】
 
-配列</br>
+配列
+
 This function returns an array of objects or an empty array.（ この関数はオブジェクトの配列を返しますが、エラーが発生した場合は空の配列を返します ）
 
 > attribute【 名詞 】
 
-属性</br>
+属性
+
 Cannot update a read-only setting or attribute.（ 読み取り専用の設定または属性を更新できません ）
 
 > audio【 名詞 】
 
-オーディオ、音声</br>
+オーディオ、音声
+
 The audio gets out of sync.（ 音声がズレています ）
 
 > author【 名詞 】
 
-作成者</br>
+作成者
+
 Who is the author of this code!? Oh, I wrote this myself...（ 誰がこのコードの作成者だろう！？あ、自分で書いたコードだった ）
 
 > available【 形容詞 】
 
-利用可能な、入手可能な</br>
+利用可能な、入手可能な
+
 Our application is now available on several countries.（ 私たちのアプリケーションは現在いくつかの国で利用可能です ）
 
 > avoid【 動詞 】
 
-受諾する、受け入れる</br>
+受諾する、受け入れる
+
 Henceforth, avoid including a version number.（ これからは、バージョン番号を含めることを避けること ）
 
 <hr>

@@ -73,29 +73,34 @@ cover:
 
 > backup【 名詞 】
 
-バックアップ</br>
+バックアップ
+
 You should better create a backup data.（ データのバックアップを作成した方がよい ）
 
 > based【 形容詞 】
 
-ベースの、〜に基づく</br>
+ベースの、〜に基づく
+
 Network-based location system. （ ネットワークに基づくロケーション・システム ）
 
 > bit【 名詞 】
 
-ビット</br>
+ビット
+
 All passwords use 160 bit encryption.（ すべてのパスワードは160ビット暗号を使用します ）
 
 ※ コンピュータが扱うデータの最小単位のこと。 コンピュータの世界ではすべての情報が2進数で処理されているが、その1桁のことを1ビット（bit）という。
 
 > blank【 形容詞 】
 
-空白の</br>
+空白の
+
 Why is my website shows blank page? The blank page is usually caused by a php error. （ 私のウェブサイトに空白ページが表示されるのはなぜですか？空白のページはPHPのエラーによって起こっていることが多いです ）
 
 > block【 名詞／動詞 】
 
-ブロック／ブロックする</br>
+ブロック／ブロックする
+
 About every 10 minutes a new block is generated in Bitcoin.（ 10分ごとにビットコイン上で新たなブロックが生成されます ）
 
 > boolean【 形容詞 】
@@ -107,24 +112,28 @@ Argument is a boolean flag.（ 引数はブールのフラグである ）
 
 > branch【 名詞 】
 
-アプリケーション</br>
+アプリケーション
+
 I am going to checkout new branch.（ 新しいブランチにチェックアウトします ）
 
 ※ checkout：gitコマンドの内の一つでブランチを切り替えたいときに使用する。
 
 > browser【 名詞 】
 
-ブラウザー</br>
+ブラウザー
+
 I am recovering deleted Safari browser history and bookmarks.（ 削除されたSafariブラウザの履歴とブックマークを復元しています ）
 
 > bug【 名詞 】
 
-バグ、不具合の原因</br>
+バグ、不具合の原因
+
 Fixed API bug when sending payment request.（ 注文リクエストを送信するためのAPIのバグを修正しました ）
 
 > byte【 名詞 】
 
-バイト</br>
+バイト
+
 The Python compiler currently generates the following byte code instructions.（ 現在Pythonコンパイラは次のバイトコード命令を生成します ）
 
 ※ 1バイト = 8ビット
