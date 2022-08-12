@@ -132,6 +132,10 @@ googleAnalytics = "G-HSQ9DBX6WJ"
   url = "https://twitter.com/pyonkichi369/"
 
 [[params.socialIcons]]
+  name = "bitcoin"
+  url = "https://tippin.me/@pyonkichi369"
+
+[[params.socialIcons]]
   name = "rss"
   url = "https://feedly.com/i/subscription/feed/https://www.pyonkichi369.com/index.xml"
 
