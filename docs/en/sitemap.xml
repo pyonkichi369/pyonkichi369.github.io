@@ -50,6 +50,18 @@
                 href="https://www.pyonkichi369.com/en/posts/engineering/"
                 />
   </url><url>
+    <loc>https://www.pyonkichi369.com/en/posts/engineering/english/basic/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.pyonkichi369.com/posts/engineering/english/basic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pyonkichi369.com/en/posts/engineering/english/basic/"
+                />
+  </url><url>
     <loc>https://www.pyonkichi369.com/en/posts/hobby/</loc>
     <xhtml:link
                 rel="alternate"
