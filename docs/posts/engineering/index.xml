@@ -6,7 +6,35 @@
     <description>Recent content in エンジニアリング on ぴょんきちブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.pyonkichi369.com/posts/engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.pyonkichi369.com/posts/engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>エンジニアを目指すなら覚えておきたい英単語 ベーシック 頭文字E</title>
+      <link>https://www.pyonkichi369.com/posts/engineering/english-for-engineer-basic-e/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.pyonkichi369.com/posts/engineering/english-for-engineer-basic-e/</guid>
+      <description>こんにちは、ぴょんきちです！
+「 エンジニアになりたいんだけど、何から勉強したらいいの？ 」「 どんなスキルが必要なの？ 」 など迷っている方必見です！
+この記事は次のような人におすすめ！
+エンジニアを目指している 何から学ぶべきか迷っている この記事でご紹介する「英単語」を最低限覚えておけば、困ることはないでしょう。
+なぜなら、実際に現役エンジニアである私も毎日のように「英単語」に触れているからです。
+これからエンジニアを目指して勉強を始めようと考えている方は、ぜひ参考にしてみてくださいね！
+それでは、始めましょう！
+E edit【 動詞 】
+編集する
+How do I edit music track information in RealPlayer?（ RealPlayerで動画や写真のキャプションを編集するにはどうすればいいですか？ ）
+editor【 名詞 】
+エディター
+Which editor do you use?（ その他のSkypeManagerレポートは、管理者のダッシュボードから利用できます ）
+※ エディター/IDE：Atom、Vim、Visual Studio Code、Brackets など。
+element【 名詞 】
+要素
+Missing closing brace, or illegal array element.（ 閉じかっこがないか、配列の要素が正しくありません ）
+empty【 形容詞 】
+空の
+This error occurred because the function returned an empty array.</description>
+    </item>
+    
     <item>
       <title>エンジニアを目指すなら覚えておきたい英単語 ベーシック 頭文字D</title>
       <link>https://www.pyonkichi369.com/posts/engineering/english-for-engineer-basic-d/</link>
