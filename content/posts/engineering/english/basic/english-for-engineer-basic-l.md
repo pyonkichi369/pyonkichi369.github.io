@@ -1,6 +1,6 @@
 ---
-title: "エンジニアを目指すなら覚えておきたい英単語 ベーシック 頭文字I"
-date: 2022-08-17T00:00:00+00:00
+title: "エンジニアを目指すなら覚えておきたい英単語 ベーシック 頭文字L"
+date: 2022-08-18T00:00:00+00:00
 categories:
     - エンジニアリング
     - 語学
@@ -69,49 +69,49 @@ cover:
 
 <hr>
 
-## I
+## L
 
-> icon【 名詞 】
+> label【 名詞／動詞 】
 
-アイコン
+ラベル／ラベルを貼る
 
-This icon shows whether duplicates exist.（ このアイコンは、重複が存在するかどうかを示します ）
+The label filter is used to filter objects.（ ラベルフィルターを使用して、オブジェクトにフィルタをかけます ）
 
-> ignore【 動詞 】
+> latest【 形容詞 】
 
-無視する
+最近の
 
-Unlike HTML, CSS will completely ignore unknown keywords.（ HTMLとは異なり、CSSでは未知のキーワードは完全に無視されます ）
+Please install the latest version of Adobe Flash Player to view animations.（ アニメーションを閲覧するためにAdobe Flash Playerの最新バージョンをインストールしてください ）
 
-> image【 名詞 】
+> layer【 名詞 】
 
-画像、イメージ
+レイヤー、層
 
-Inserts a scanned image into your document.（ スキャンした画像がドキュメントに挿入されます ）
+Shows the interface's Ethernet layer address.（ インタフェースのEthernet層アドレスを表示します ）
 
-> import【 名詞／動詞 】
+> layout【 名詞 】
 
-インポート／インポートする
+レイアウト
 
-To import regulated content to your computer, you need to cancel the setting.（ 自分のコンピューターへ規制されたコンテンツをインポートするには設定を解除する必要があります ）
+Displays the diagram layout style currently selected.（ 現在選択している図のレイアウトスタイルが表示されます ）
 
-> including【 前置詞 】
+> length【 名詞 】
 
-〜を含めて
+長さ
 
-Translated into other languages including Japanese.（ のちに日本語を含む他言語でも翻訳された ）
+Please check the relimiters or length inputs.（ 境界設定または長さ入力をチェックしてください ）
 
-> index【 名詞 】
+> level【 名詞 】
 
-インデックス、索引、添字
+レベル、水準
 
-Creates index entries from specific paragraph styles.（ 特定の段落スタイルを基に、索引の項目を作成します ）
+The policy rule's importance level.（ ポリシー・ルールの重要度 ）
 
-> indicate【 動詞 】
+> library【 名詞 】
 
-示す
+ライブラリー
 
-Might indicate a file system problem.（ ファイルシステムの問題を示す可能性がある ）
+Pandas is Python library shoub.（ ファイルシステムの問題を示す可能性がある ）
 
 > input【 名詞／動詞 】
 
@@ -174,7 +174,7 @@ This item could not be deleted.（ このアイテムは削除できませんで
 
 エンジニアを目指すなら覚えておきたい英単語に範囲を絞りましたが数が多いので、今回は頭文字がIの単語に絞って例文を使って解説しました。
 
-次の記事では、少しとんで頭文字がLの単語に絞って解説をしようと思います。
+次の記事では、頭文字がJの単語に絞って解説をしようと思います。
 
 また、***英単語の学習だけでは心配な方***や***もっと効率的に学習を進めたい方***もいるかと思いますので、エンジニアリングについても並行して学習することをおすすめします。
 
