@@ -1,4 +1,4 @@
 ---
-title: Investment
+title: Investing
 summary: Crypto、Binary Option
 ---

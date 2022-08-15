@@ -50,40 +50,28 @@
                 href="https://www.pyonkichi369.com/en/posts/engineering/"
                 />
   </url><url>
-    <loc>https://www.pyonkichi369.com/en/posts/hobby/</loc>
+    <loc>https://www.pyonkichi369.com/en/posts/investing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://www.pyonkichi369.com/posts/hobby/"
+                href="https://www.pyonkichi369.com/posts/investing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.pyonkichi369.com/en/posts/hobby/"
+                href="https://www.pyonkichi369.com/en/posts/investing/"
                 />
   </url><url>
-    <loc>https://www.pyonkichi369.com/en/posts/investment/</loc>
+    <loc>https://www.pyonkichi369.com/en/posts/traveling/kyoto/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://www.pyonkichi369.com/posts/investment/"
+                href="https://www.pyonkichi369.com/posts/traveling/kyoto/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.pyonkichi369.com/en/posts/investment/"
-                />
-  </url><url>
-    <loc>https://www.pyonkichi369.com/en/posts/language/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.pyonkichi369.com/posts/language/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.pyonkichi369.com/en/posts/language/"
+                href="https://www.pyonkichi369.com/en/posts/traveling/kyoto/"
                 />
   </url><url>
     <loc>https://www.pyonkichi369.com/en/posts/</loc>
@@ -144,6 +132,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.pyonkichi369.com/en/tags/"
+                />
+  </url><url>
+    <loc>https://www.pyonkichi369.com/en/posts/traveling/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.pyonkichi369.com/posts/traveling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pyonkichi369.com/en/posts/traveling/"
                 />
   </url>
 </urlset>
