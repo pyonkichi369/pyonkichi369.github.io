@@ -111,70 +111,70 @@ The policy rule's importance level.（ ポリシー・ルールの重要度 ）
 
 ライブラリー
 
-Pandas is Python library shoub.（ ファイルシステムの問題を示す可能性がある ）
+Pandas is Python library.（ PandasはPythonライブラリーです ）
 
-> input【 名詞／動詞 】
+> license【 名詞／動詞 】
 
-入力／入力する
+ライセンス／ライセンス供与する
 
-All input files are binary equal.（ すべての入力ファイルはバイナリ的に同じです ）
+Please read and accept these license terms.（ これらのライセンス条項を読んで同意してください ）
 
-> install【 動詞 】
+> limit【 動詞／名詞 】
 
-インストールする
+制限する／制限
 
-Only install add-ons from websites that you trust.（ 信頼できるWebサイトのアドオンのみをインストールする ）
+The limit on buffers was exceeded during document filtering.（ ドキュメントのフィルタ処理中にバッファの限界を超えました ）
 
-> installer【 名詞 】
+> link【 名詞／動詞 】
 
-インストーラー
+リンク／リンクする
 
-The installer suggests a default location.（ インストーラーはデフォルトのインストール先を表示しています ）
+That means it's a link to another webpage.（ これは、この単語が他のWebページへのリンクであることを意味します ）
 
-> instance【 名詞 】
+> local【 形容詞 】
 
-インスタンス、実例
+ローカルの、局所の
 
-Interfaces are accessed through instance objects.（ インタフェースはインスタンスオブジェクトを介してアクセスされます ）
+Could not find any local SQL Server instances.（ ローカルのSQLサーバーインスタンスが見つかりませんでした ）
 
-> instruction【 名詞 】
+> location【 名詞 】
 
-指示
+位置、場所
 
-Hence, follow this instruction strictly.（ したがって、厳密にこの指示に従ってください ）
+The command location specified is not valid.（ 指定したコマンドの場所は正しくありません ）
 
-> integer【 名詞 】
+> lock【 動詞／名詞 】
 
-整数
+ロックする／ロック
 
-Valid unit numbers are any integer.（ 有効なユニット番号は、任意の整数です ）
+To lock the account, click Locked.（ アカウントをロックするには、Lockedをクリックします ）
 
-> interface【 名詞 】
+> log【 名詞／動詞 】
 
-インターフェイス
+ログ／ログを取る
 
-Select your audio interface from the Device menu.（ Deviceメニューから、ご使用のオーディオインターフェースを選択します ）
+Record protocol telemetry in applications debug log.（ プロトコルの通信内容をアプリケーションのデバッグログに記録します ）
 
-> issue【 名詞 】
+> login【 名詞 】
 
-問題点
+ログイン
 
-There are several possibilities regarding this issue.（ この問題については、いくつかの可能性が考えられる ）
+The login information provided was invalid.（ 入力されたログイン情報が正しくありませんでした ）
 
-> item【 名詞 】
+> loop【 名詞 】
 
-項目
+ループ
 
-This item could not be deleted.（ このアイテムは削除できませんでした ）
+To make the file play over and over, choose Loop.（ ファイルを繰り返し再生するには、ループを選択します ）
 
 
 <hr>
 
 いかがでしたでしょうか？
 
-エンジニアを目指すなら覚えておきたい英単語に範囲を絞りましたが数が多いので、今回は頭文字がIの単語に絞って例文を使って解説しました。
+エンジニアを目指すなら覚えておきたい英単語に範囲を絞りましたが数が多いので、今回は頭文字がLの単語に絞って例文を使って解説しました。
 
-次の記事では、頭文字がJの単語に絞って解説をしようと思います。
+次の記事では、頭文字がM, N, Oの単語に絞って解説をしようと思います。
 
 また、***英単語の学習だけでは心配な方***や***もっと効率的に学習を進めたい方***もいるかと思いますので、エンジニアリングについても並行して学習することをおすすめします。
 
