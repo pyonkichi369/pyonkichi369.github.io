@@ -6,7 +6,35 @@
     <description>Recent content in べーシック on ぴょんきちブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.pyonkichi369.com/posts/engineering/english/basic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.pyonkichi369.com/posts/engineering/english/basic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>エンジニアを目指すなら覚えておきたい英単語 ベーシック 頭文字H &amp; 付録</title>
+      <link>https://www.pyonkichi369.com/posts/engineering/english/basic/english-for-engineer-basic-h/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.pyonkichi369.com/posts/engineering/english/basic/english-for-engineer-basic-h/</guid>
+      <description>こんにちは、ぴょんきちです！
+「 エンジニアになりたいんだけど、何から勉強したらいいの？ 」「 どんなスキルが必要なの？ 」 など迷っている方必見です！
+この記事は次のような人におすすめ！
+エンジニアを目指している 何から学ぶべきか迷っている この記事でご紹介する「英単語」を最低限覚えておけば、困ることはないでしょう。
+なぜなら、実際に現役エンジニアである私も毎日のように「英単語」に触れているからです。
+これからエンジニアを目指して勉強を始めようと考えている方は、ぜひ参考にしてみてくださいね！
+それでは、始めましょう！
+H hardware【 名詞 】
+ハードウェア
+The Linux kernel separates the hardware from the user-level tasks.（ Linuxカーネルはハードウェアをユーザレベルのタスクから切り離します ）
+height【 名詞 】
+高さ
+Integer specifies preferred height.（ 優先的に使用する高さを指定します ）
+hide【 動詞 】
+隠す、非表示にする
+You can also hide navigation items individually.（ 個々のナビゲーションアイテムを別々に非表示にすることもできます ）
+highlight【 名詞／動詞 】
+ハイライト／強調表示する
+It moves towards different interfaces being the highlight.（ それは強調された異なるインターフェースに向かって動きます ）
+host【 名詞 】</description>
+    </item>
+    
     <item>
       <title>エンジニアを目指すなら覚えておきたい英単語 ベーシック 頭文字G &amp; 付録</title>
       <link>https://www.pyonkichi369.com/posts/engineering/english/basic/english-for-engineer-basic-g/</link>
