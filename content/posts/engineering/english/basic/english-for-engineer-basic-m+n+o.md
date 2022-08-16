@@ -133,15 +133,94 @@ One popular solution is the Apache proxy module.（ はやりの選択肢はApac
 
 That means access to your network.（ つまり、ネットワークへのアクセスを意味します ）
 
+> node【 名詞 】
+
+ノード
+
+Winny node information processing vulnerability.（ Winnyにおけるノード情報の処理に関する脆弱性 ）
+
+> none【 代名詞 】
+
+一つもなし
+
+You can also choose none if you do not want a particular component to be installed.（ 特定のコンポーネントをインストールしたくない場合は、noneを選択できます ）
+
+> normal【 形容詞 】
+
+標準の
+
+During normal operation, catalogs are constantly changing.（ 通常のオペレーションにおいて、カタログは常に変更されています ）
+
+> note【 名詞／動詞 】
+
+注意／〜に注意する
+
+A further security note is warranted.（ 関連して、さらなるセキュリティ上の注意があります ）
+
+> notice【 名詞 】
+
+通知、注意
+
+The update notice has been deleted.（ アップデート通知が削除されました ）
+
+> null【 形容詞／名詞 】
+
+空の、nullの／null
+
+A null property or section was specified.（ プロパティまたはセクションにNULLが指定されました ）
+
 ## O
+
+> occur【 動詞 】
+
+発生する
+
+Similar phenomena will occur in the analysis of programs.（ 同様の現象はプログラムの解析においても発生する ）
+
+> operation【 名詞 】
+
+操作、処理
+
+Subversion update operation created local conflicts.（ Subversionの更新操作がローカルの衝突を作成しました ）
+
+> option【 名詞 】
+
+オプション
+
+For individuals, free apps are a better option.（ 個人にとっては、無料アプリがより良い選択肢です ）
+
+> optional【 形容詞 】
+
+任意の、オプションの
+
+Provision of personal information is optional.（ ご入力頂く情報の提供は任意となっております ）
+
+> output【 名詞／動詞 】
+
+出力／出力する
+
+Analyze the repository and graphically visualize your output.（ Gitリポジトリを解析、あなたのアウトプットをグラフィカルに可視化します ）
+
+> override【 動詞 】
+
+オーバーライドする、優先する
+
+Client applications can always override defaults.（ クライアント・アプリケーションはデフォルト値を自由に上書きできます ）
+
+> owner【 名詞 】
+
+所有者、オーナー
+
+Check install owner, password, and domain.（ インストール所有者、パスワード、およびドメインを確認してください ）
 
 <hr>
 
 いかがでしたでしょうか？
 
-エンジニアを目指すなら覚えておきたい英単語に範囲を絞りましたが数が多いので、今回は頭文字がLの単語に絞って例文を使って解説しました。
+エンジニアを目指すなら覚えておきたい英単語に範囲を絞りましたが数が多いので、今回は頭文字がM, N, Oの単語に絞って例文を使って解説しました。
+今回は１文字ごとで連想される単語数が少なかったのでまとめて紹介しました。
 
-次の記事では、頭文字がM, N, Oの単語に絞って解説をしようと思います。
+次の記事では、頭文字がPの単語に絞って解説をしようと思います。
 
 また、***英単語の学習だけでは心配な方***や***もっと効率的に学習を進めたい方***もいるかと思いますので、エンジニアリングについても並行して学習することをおすすめします。
 
