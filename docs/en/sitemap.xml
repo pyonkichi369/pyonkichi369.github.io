@@ -2,122 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.pyonkichi369.com/en/categories/</loc>
-    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.pyonkichi369.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.pyonkichi369.com/en/categories/"
-                />
-  </url><url>
-    <loc>https://www.pyonkichi369.com/en/tags/gourmet/</loc>
-    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.pyonkichi369.com/en/posts/traveling/kyoto/ryokan_hotel/toshiharuryokan/</loc>
-    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.pyonkichi369.com/posts/traveling/kyoto/ryokan_hotel/toshiharuryokan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.pyonkichi369.com/en/posts/traveling/kyoto/ryokan_hotel/toshiharuryokan/"
-                />
-  </url><url>
-    <loc>https://www.pyonkichi369.com/en/posts/traveling/kyoto/</loc>
-    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.pyonkichi369.com/posts/traveling/kyoto/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.pyonkichi369.com/en/posts/traveling/kyoto/"
-                />
-  </url><url>
-    <loc>https://www.pyonkichi369.com/en/posts/</loc>
-    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.pyonkichi369.com/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.pyonkichi369.com/en/posts/"
-                />
-  </url><url>
-    <loc>https://www.pyonkichi369.com/en/</loc>
-    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.pyonkichi369.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.pyonkichi369.com/en/"
-                />
-  </url><url>
-    <loc>https://www.pyonkichi369.com/en/tags/ryokan/</loc>
-    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.pyonkichi369.com/en/posts/traveling/kyoto/ryokan_hotel/</loc>
-    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.pyonkichi369.com/posts/traveling/kyoto/ryokan_hotel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.pyonkichi369.com/en/posts/traveling/kyoto/ryokan_hotel/"
-                />
-  </url><url>
-    <loc>https://www.pyonkichi369.com/en/tags/</loc>
-    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.pyonkichi369.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.pyonkichi369.com/en/tags/"
-                />
-  </url><url>
-    <loc>https://www.pyonkichi369.com/en/tags/traveling/</loc>
-    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.pyonkichi369.com/en/categories/traveling/</loc>
-    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.pyonkichi369.com/en/posts/traveling/</loc>
-    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.pyonkichi369.com/posts/traveling/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.pyonkichi369.com/en/posts/traveling/"
-                />
-  </url><url>
     <loc>https://www.pyonkichi369.com/en/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -140,6 +24,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.pyonkichi369.com/en/archives/"
+                />
+  </url><url>
+    <loc>https://www.pyonkichi369.com/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.pyonkichi369.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pyonkichi369.com/en/categories/"
                 />
   </url><url>
     <loc>https://www.pyonkichi369.com/en/posts/engineering/</loc>
@@ -166,6 +62,18 @@
                 href="https://www.pyonkichi369.com/en/posts/investing/"
                 />
   </url><url>
+    <loc>https://www.pyonkichi369.com/en/posts/traveling/kyoto/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.pyonkichi369.com/posts/traveling/kyoto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pyonkichi369.com/en/posts/traveling/kyoto/"
+                />
+  </url><url>
     <loc>https://www.pyonkichi369.com/en/posts/traveling/osaka/</loc>
     <xhtml:link
                 rel="alternate"
@@ -176,6 +84,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.pyonkichi369.com/en/posts/traveling/osaka/"
+                />
+  </url><url>
+    <loc>https://www.pyonkichi369.com/en/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.pyonkichi369.com/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pyonkichi369.com/en/posts/"
                 />
   </url><url>
     <loc>https://www.pyonkichi369.com/en/privacy-policy/</loc>
@@ -190,6 +110,30 @@
                 href="https://www.pyonkichi369.com/en/privacy-policy/"
                 />
   </url><url>
+    <loc>https://www.pyonkichi369.com/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.pyonkichi369.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pyonkichi369.com/en/"
+                />
+  </url><url>
+    <loc>https://www.pyonkichi369.com/en/posts/traveling/kyoto/ryokan_hotel/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.pyonkichi369.com/posts/traveling/kyoto/ryokan_hotel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pyonkichi369.com/en/posts/traveling/kyoto/ryokan_hotel/"
+                />
+  </url><url>
     <loc>https://www.pyonkichi369.com/en/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -200,6 +144,30 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.pyonkichi369.com/en/search/"
+                />
+  </url><url>
+    <loc>https://www.pyonkichi369.com/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.pyonkichi369.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pyonkichi369.com/en/tags/"
+                />
+  </url><url>
+    <loc>https://www.pyonkichi369.com/en/posts/traveling/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.pyonkichi369.com/posts/traveling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pyonkichi369.com/en/posts/traveling/"
                 />
   </url>
 </urlset>
