@@ -1,6 +1,6 @@
 ---
 title: "Japanese traditional ryokan in Kyoto Toshiharu Ryokan"
-date: 2022-08-09T00:00:00+00:00
+date: 2022-08-28T00:00:00+00:00
 categories:
     - Traveling
 tags:
@@ -17,8 +17,8 @@ cover:
   image: "images/toshiharu_ryokan_entrance.jpg"
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-  alt: "エンジニアを目指すなら覚えておきたい英単語"
-  caption: "エンジニアを目指すなら覚えておきたい英単語"
+  alt: "Japanese traditional ryokan in Kyoto Toshiharu Ryokan Entrance"
+  caption: "Japanese traditional ryokan in Kyoto Toshiharu Ryokan Entrance"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
@@ -42,3 +42,4 @@ cover:
 </style>
 
 Hi, it's pyonkichi !
+
