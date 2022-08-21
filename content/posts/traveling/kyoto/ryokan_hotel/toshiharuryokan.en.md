@@ -12,6 +12,7 @@ keywords:
     - Ryokan
     - Gourmet
     - Traveling
+summary: The ryokan I stayed at when I traveled to Kyoto was wonderful, so I'm introducing it! There is a "Zashiki-warashi" who is said to bring good luck to those who see it (good luck information)! ?
 showMeta: true
 cover:
   image: "images/toshiharu_ryokan_entrance.jpg"
