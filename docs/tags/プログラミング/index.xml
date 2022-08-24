@@ -6,7 +6,26 @@
     <description>Recent content in プログラミング on ぴょんきちブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.pyonkichi369.com/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.pyonkichi369.com/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【 ブログに費用をあまりかけたくない人必見！ 】ブログを低コストで始める方法</title>
+      <link>https://www.pyonkichi369.com/posts/engineering/programming/go/static-site-generator-hugo-blog-1/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.pyonkichi369.com/posts/engineering/programming/go/static-site-generator-hugo-blog-1/</guid>
+      <description>こんにちは、ぴょんきちです！
+「 ブログを始めたいけど、何から始めたらいい？ 」「 なるべく初期費用を抑えたいけど、どうしたらいい？ 」 など迷っている方必見です！
+この記事は次のような人におすすめ！
+ブログを始めたい 初期費用を抑えたい この記事では「 HUGO 」という静的サイトを紹介します！
+独自ドメインを取得して設定をするだけなので、5,000円程度でサイト作成から数年間の運用が可能です。
+これからブログを始めようと考えている方は、ぜひ参考にしてみてくださいね！
+それでは、始めましょう！
+前提条件 GitHub がわかること ※ 今わからなくても大丈夫です。今後リリース予定の記事で解説をします。
+HUGO とは Go言語で作られたWEBサイトを作成するためのフレームワークのことです。
+HUGO の特徴 管理画面がない WordPress（ 動的サイト ）のように管理画面がなく、パスワード漏洩などでサイトを乗っ取られる心配がない。 GitHubのアカウントさえしっかり管理しておけば大丈夫です。 ページ表示が高速 動的サイトのようにコンテンツを動的に変える必要がないので特に何もしなくてもページの表示が高速になる。 サーバーを管理する必要がない 動的サイトのようにレンタルサーバーを契約する必要がないので静的サイトのホスティングサービスにさえ登録しておけば大丈夫です。 HTML, CSS, JavaScript のみで構成 サーバーサイドの処理（ PHPなど ）を書く必要はありません。 テンプレートが豊富に用意されている 当ブログもHUGOのテンプレートの中からカッコいいなと思ったデザインのものを採用してます。 Static Site Generator（ 静的サイトジェネレータ ）で生成 記事は全てMarkdown（ マークダウン ）で作成して、それをもとにHUGOがHTMLを生成してくれます。 HUGO vs WordPress ブログ作成に必要な項目のみで HUGO と WordPress を比較してみようと思います。
+HUGO WordPress 備考 SEO ◯ ◯ HUGO、WordPress 問わずしっかり対策したら大丈夫！ 運用コスト ◯ △ HUGOでは独自ドメインの取得のみ1年契約であれば1,500円程度で足ります。 テーマの種類 △ ◯ 種類の豊富さで言えば、HUGOはまだまだ。 セキュリティー ◯ △ HUGOは脆弱性のリスクがかなり低い。GitHubに秘匿情報を誤ってあげないように。 記事執筆の手軽さ ◯ △ HUGOはマークダウンで記事が書けるの有難い。 サイト構築の難易度 ◯ △ インフラは特に気にしなくても良いのでHUGO推しです。 HUGO でブログを構築するまでに必要な工程 ブログの独自ドメインを取得する GitHub のアカウントを作成する GitHub Pages で静的サイトをホスティングできるように設定する HUGO をインストールして、ブログのテーマを GitHub よりクローンする GitHub Pages で HUGO のサイトが表示されていることを確認する GitHub Pages に独自ドメインの設定する（ 結構時間かかります ） 当サイトのドメインは Xserver にて取得しました。</description>
+    </item>
+    
     <item>
       <title>エンジニアを目指すなら覚えておきたい英単語 ベーシック 頭文字M, N, O</title>
       <link>https://www.pyonkichi369.com/posts/engineering/english/basic/english-for-engineer-basic-m&#43;n&#43;o/</link>
