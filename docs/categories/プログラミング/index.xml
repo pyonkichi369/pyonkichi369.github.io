@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>プログラミング on ぴょんきちブログ</title>
-    <link>https://www.pyonkichi369.com/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</link>
+    <link>https://pyonkichi369.com/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</link>
     <description>Recent content in プログラミング on ぴょんきちブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.pyonkichi369.com/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pyonkichi369.com/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【 ブログに費用をあまりかけたくない人必見！ 】ブログを低コストで始める方法</title>
-      <link>https://www.pyonkichi369.com/posts/programming/go/static-site-generator-hugo-blog-1/</link>
+      <link>https://pyonkichi369.com/posts/programming/go/static-site-generator-hugo-blog-1/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.pyonkichi369.com/posts/programming/go/static-site-generator-hugo-blog-1/</guid>
+      <guid>https://pyonkichi369.com/posts/programming/go/static-site-generator-hugo-blog-1/</guid>
       <description>こんにちは、ぴょんきちです！
 「 ブログを始めたいけど、何から始めたらいい？ 」「 なるべく初期費用を抑えたいけど、どうしたらいい？ 」 など迷っている方必見です！
 この記事は次のような人におすすめ！
