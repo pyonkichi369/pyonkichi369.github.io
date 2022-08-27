@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ぴょんきちブログ</title>
-    <link>https://pyonkichi369.com/</link>
+    <link>https://www.pyonkichi369.com/</link>
     <description>Recent content on ぴょんきちブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pyonkichi369.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.pyonkichi369.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【 ブログに費用をあまりかけたくない人必見！ 】ブログを低コストで始める方法</title>
-      <link>https://pyonkichi369.com/posts/programming/go/static-site-generator-hugo-blog-1/</link>
+      <link>https://www.pyonkichi369.com/posts/programming/go/static-site-generator-hugo-blog-1/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pyonkichi369.com/posts/programming/go/static-site-generator-hugo-blog-1/</guid>
+      <guid>https://www.pyonkichi369.com/posts/programming/go/static-site-generator-hugo-blog-1/</guid>
       <description>こんにちは、ぴょんきちです！
 「 ブログを始めたいけど、何から始めたらいい？ 」「 なるべく初期費用を抑えたいけど、どうしたらいい？ 」 など迷っている方必見です！
 この記事は次のような人におすすめ！
@@ -28,19 +28,19 @@ HUGO WordPress 備考 SEO ◯ ◯ HUGO、WordPress 問わずしっかり対策�
     
     <item>
       <title>【 おすすめ 】京都旅行で出会った素敵な旅館 京町屋の宿 【 十四春旅館 】</title>
-      <link>https://pyonkichi369.com/posts/traveling/kyoto/ryokan_hotel/toshiharuryokan/</link>
+      <link>https://www.pyonkichi369.com/posts/traveling/kyoto/ryokan_hotel/toshiharuryokan/</link>
       <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pyonkichi369.com/posts/traveling/kyoto/ryokan_hotel/toshiharuryokan/</guid>
+      <guid>https://www.pyonkichi369.com/posts/traveling/kyoto/ryokan_hotel/toshiharuryokan/</guid>
       <description>京都に旅行した際に宿泊した旅館が素晴らしかったので紹介しております！見た者には幸運が訪れると言われている「 座敷童 」がいる（ 開運情報 ）！？</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://pyonkichi369.com/about/</link>
+      <link>https://www.pyonkichi369.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pyonkichi369.com/about/</guid>
+      <guid>https://www.pyonkichi369.com/about/</guid>
       <description>about</description>
     </item>
     
@@ -48,10 +48,10 @@ HUGO WordPress 備考 SEO ◯ ◯ HUGO、WordPress 問わずしっかり対策�
     
     <item>
       <title>プライバシーポリシー</title>
-      <link>https://pyonkichi369.com/privacy-policy/</link>
+      <link>https://www.pyonkichi369.com/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pyonkichi369.com/privacy-policy/</guid>
+      <guid>https://www.pyonkichi369.com/privacy-policy/</guid>
       <description>privacy-policy</description>
     </item>
     

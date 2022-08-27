@@ -1,6 +1,6 @@
 # https://mshr-h.com/posts/new-website-with-hugo/
 
-baseURL = 'https://pyonkichi369.com/'
+baseURL = 'https://www.pyonkichi369.com/'
 canonifyurls = true
 languageCode = 'ja'
 defaultContentLanguage = 'ja'
