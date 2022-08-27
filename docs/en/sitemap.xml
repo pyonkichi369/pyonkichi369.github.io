@@ -142,6 +142,18 @@
                 href="https://pyonkichi369.com/en/archives/"
                 />
   </url><url>
+    <loc>https://pyonkichi369.com/en/posts/blockcain/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://pyonkichi369.com/posts/blockcain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pyonkichi369.com/en/posts/blockcain/"
+                />
+  </url><url>
     <loc>https://pyonkichi369.com/en/posts/programming/go/</loc>
     <xhtml:link
                 rel="alternate"
@@ -152,18 +164,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://pyonkichi369.com/en/posts/programming/go/"
-                />
-  </url><url>
-    <loc>https://pyonkichi369.com/en/posts/investing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pyonkichi369.com/posts/investing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pyonkichi369.com/en/posts/investing/"
                 />
   </url><url>
     <loc>https://pyonkichi369.com/en/posts/traveling/osaka/</loc>

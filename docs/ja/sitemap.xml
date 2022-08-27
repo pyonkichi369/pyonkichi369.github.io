@@ -213,6 +213,18 @@
                 href="https://pyonkichi369.com/privacy-policy/"
                 />
   </url><url>
+    <loc>https://pyonkichi369.com/posts/blockcain/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pyonkichi369.com/en/posts/blockcain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://pyonkichi369.com/posts/blockcain/"
+                />
+  </url><url>
     <loc>https://pyonkichi369.com/posts/traveling/osaka/</loc>
     <xhtml:link
                 rel="alternate"
@@ -223,18 +235,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://pyonkichi369.com/posts/traveling/osaka/"
-                />
-  </url><url>
-    <loc>https://pyonkichi369.com/posts/investing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pyonkichi369.com/en/posts/investing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://pyonkichi369.com/posts/investing/"
                 />
   </url>
 </urlset>
