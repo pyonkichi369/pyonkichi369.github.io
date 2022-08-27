@@ -38,7 +38,12 @@
         <h1>{{ .Title | markdownify }}</h1>
     </header>
     <div class="entry-content">
-        {{ .Content | markdownify }}
+        <div style="display: flex;align-items: center;">
+            <p>
+                <img src="/images/profile.jpg" style="width: 80px;height: 80px;border-radius: 50%;object-fit: cover;">
+            </p>
+            <p style="margin-left: 14px;">{{ .Content | markdownify }}</p>
+        </div>
         <div class="terms-tags-container">
             <ul class="terms-tags">
                 {{ range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}

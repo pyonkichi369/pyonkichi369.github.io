@@ -42,7 +42,7 @@ googleAnalytics = "G-HSQ9DBX6WJ"
         description = "これからエンジニアを目指したい人と思っていませんか？何から始めたらいいのか迷っていませんか？現役エンジニアを勤めているぴょんきちがお悩みを解決します！エンジニアリング関連の記事を中心に様々なジャンルの知識や話題を提供する雑記ブログです。"
       [languages.ja.params.homeInfoParams]
         title = "こんにちは 👋"
-        content = "とーきょーでエンジニアしてます。</br>お悩みや相談があれば是非ご連絡を！🤝"
+        content = "ぴょんきちです🕺🪩</br>とーきょーでエンジニアしてます。</br>ご相談があれば是非ご連絡を！🤝"
   [languages.en]
       title = 'PYONKICHI BLOG'
       languageName = '🇺🇸 English'

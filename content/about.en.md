@@ -14,6 +14,10 @@ summary: about
 
 </style>
 
+<p>
+    <img src="/images/profile.jpg" style="width: 80px;height: 80px;border-radius: 50%;object-fit: cover;">
+</p>
+
 ## EX SKILLS
 
 <ul style="margin-bottom: 0; padding-inline-start: 0; list-style-type: none; display: flex;">
