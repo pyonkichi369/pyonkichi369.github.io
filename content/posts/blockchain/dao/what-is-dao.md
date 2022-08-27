@@ -158,7 +158,9 @@ DAOにはいままでの在り方をガラッと変えてしまうものすご�
 
 筆者が重要だなと感じていることとしては、***個人***がそのコミュニティに所属している理由や意味を決めて居場所を作ること、また、多様性を認め、***みんなで一緒***にコミュニティに貢献していくことではないかなと思います。
 
-また、簡単にDAOを体験するため、実際にポイ活と同じ容量でビットコインを受け取れる「  <a href="https://px.a8.net/svt/ejp?a8mat=3NH3FD+3PYJW2+4VJG+5YJRM" rel="nofollow">ビッコレ</a><img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=3NH3FD+3PYJW2+4VJG+5YJRM" alt="">  」でビットコインを手に入れてみることをおすすめします 😊
+また、簡単にDAOを体験するため、実際にポイ活と同じ容量でビットコインを受け取れる
+<a href="https://px.a8.net/svt/ejp?a8mat=3NH3FD+3PYJW2+4VJG+5YJRM" rel="nofollow">ビッコレ</a><img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=3NH3FD+3PYJW2+4VJG+5YJRM" alt="">
+でビットコインを手に入れてみることをおすすめします 😊
 
 <hr>
 
