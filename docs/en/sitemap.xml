@@ -142,28 +142,16 @@
                 href="https://www.pyonkichi369.com/en/archives/"
                 />
   </url><url>
-    <loc>https://www.pyonkichi369.com/en/posts/engineering/</loc>
+    <loc>https://www.pyonkichi369.com/en/posts/programming/go/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://www.pyonkichi369.com/posts/engineering/"
+                href="https://www.pyonkichi369.com/posts/programming/go/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.pyonkichi369.com/en/posts/engineering/"
-                />
-  </url><url>
-    <loc>https://www.pyonkichi369.com/en/posts/engineering/programming/go/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.pyonkichi369.com/posts/engineering/programming/go/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.pyonkichi369.com/en/posts/engineering/programming/go/"
+                href="https://www.pyonkichi369.com/en/posts/programming/go/"
                 />
   </url><url>
     <loc>https://www.pyonkichi369.com/en/posts/investing/</loc>
@@ -202,16 +190,16 @@
                 href="https://www.pyonkichi369.com/en/privacy-policy/"
                 />
   </url><url>
-    <loc>https://www.pyonkichi369.com/en/posts/engineering/programming/</loc>
+    <loc>https://www.pyonkichi369.com/en/posts/programming/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://www.pyonkichi369.com/posts/engineering/programming/"
+                href="https://www.pyonkichi369.com/posts/programming/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.pyonkichi369.com/en/posts/engineering/programming/"
+                href="https://www.pyonkichi369.com/en/posts/programming/"
                 />
   </url><url>
     <loc>https://www.pyonkichi369.com/en/search/</loc>
