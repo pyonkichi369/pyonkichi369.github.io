@@ -190,6 +190,18 @@
                 href="https://pyonkichi369.com/en/posts/traveling/osaka/"
                 />
   </url><url>
+    <loc>https://pyonkichi369.com/en/posts/philosophy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://pyonkichi369.com/posts/philosophy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pyonkichi369.com/en/posts/philosophy/"
+                />
+  </url><url>
     <loc>https://pyonkichi369.com/en/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
