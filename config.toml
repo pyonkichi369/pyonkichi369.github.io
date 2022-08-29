@@ -63,7 +63,7 @@ googleAnalytics = "G-HSQ9DBX6WJ"
         description = "Do you think you want to become an engineer in the future? Not sure where to start? Pyonkichi, who works as an active engineer, will solve that problem! This is a miscellaneous blog that provides knowledge and topics in various genres, focusing on engineering-related articles."
       [languages.en.params.homeInfoParams]
         title = "Hi there 👋"
-        content = "A Software Engineer @Tokyo.</br>If you have any questions or concerns, please contact us！🤝"
+        content = "Hi, It's pyonkichi369🕺🪩</br>A Software Engineer @Tokyo.</br>If you have any questions or concerns, please contact us！🤝"
 
 [params]
   sidebarBehavior = 2

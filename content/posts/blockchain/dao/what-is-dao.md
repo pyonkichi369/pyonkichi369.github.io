@@ -73,7 +73,7 @@ DAOとは、「 Decentralized Autonomous Organization 」の省略系です。�
 
 つまり、メンバーが自律的にコミュニティに対して貢献し、事業を推し進めていくことでビジョンを実現していきます。
 
-DAOの代表的な例として「 Bitcoin 」が挙げられます。
+DAOの代表的な例として「 Bitcoin 」が挙げられます。（ ※ BitcoinがなぜDAOといえるのか、その解説も近日中に実施します。 ）
 
 <img src="/images/bitcoin.jpeg">
 

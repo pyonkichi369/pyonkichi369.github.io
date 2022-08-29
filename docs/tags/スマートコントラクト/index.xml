@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ブロックチェーン on ぴょんきちブログ</title>
-    <link>https://pyonkichi369.com/posts/blockchain/</link>
-    <description>Recent content in ブロックチェーン on ぴょんきちブログ</description>
+    <title>スマートコントラクト on ぴょんきちブログ</title>
+    <link>https://pyonkichi369.com/tags/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88/</link>
+    <description>Recent content in スマートコントラクト on ぴょんきちブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 27 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pyonkichi369.com/posts/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pyonkichi369.com/tags/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>スマートコントラクトとは？</title>
       <link>https://pyonkichi369.com/posts/blockchain/what-is-smart-contract/</link>
