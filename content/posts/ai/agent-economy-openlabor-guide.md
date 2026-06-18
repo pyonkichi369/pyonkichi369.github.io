@@ -77,4 +77,4 @@ ADHDは「継続性」が弱い。だから、仕組みが「ゼロから毎回�
 
 ---
 
-noteで、実際のプロンプトと運用方法を公開しています: [note.com/dopaminelabtv](https://note.com/dopaminelabtv)
+noteで、実際のプロンプトと運用方法を公開しています: [note.com/th19930828](https://note.com/th19930828)

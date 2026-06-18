@@ -33,7 +33,7 @@ AIを使い始めてから、やり方が変わりました。
 
 ## 発信内容
 
-**[note.com/dopaminelabtv](https://note.com/dopaminelabtv)**
+**[note.com/th19930828](https://note.com/th19930828)**
 
 ADHDとAIの実験記録。89本以上の有料記事（¥500/¥980）を公開中。主なテーマ：
 
@@ -71,6 +71,6 @@ ADHDで人生がうまくいかないと思っていた時期の自分に向け�
 
 ## 連絡先
 
-- note: [note.com/dopaminelabtv](https://note.com/dopaminelabtv)
+- note: [note.com/th19930828](https://note.com/th19930828)
 - GitHub: [github.com/pyonkichi369](https://github.com/pyonkichi369)
 - Email: [contact@pyonkichi369.com](mailto:contact@pyonkichi369.com)

@@ -76,4 +76,4 @@ Claude Codeは「開発ツール」というより、「ADHDの脳の外部化�
 
 ---
 
-ADHDとAIの活用について、実践的なプロンプトをnoteで公開しています: [note.com/dopaminelabtv](https://note.com/dopaminelabtv)
+ADHDとAIの活用について、実践的なプロンプトをnoteで公開しています: [note.com/th19930828](https://note.com/th19930828)

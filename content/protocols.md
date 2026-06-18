@@ -21,7 +21,7 @@ hideMeta: true
 
 毎朝3分でAIにプロジェクトをスコア化させ、1つのタスクだけに集中する仕組み。ADHD脳の「判断疲れ」を根本から解消。
 
-[noteで読む →](https://note.com/dopaminelabtv)
+[noteで読む →](https://note.com/th19930828)
 
 ---
 
@@ -30,7 +30,7 @@ hideMeta: true
 
 大きなタスクを「25分で完結できるサイズ」に砕き、「開始トリガー」を設定する。実行機能障害を構造で回避する方法。
 
-[noteで読む →](https://note.com/dopaminelabtv)
+[noteで読む →](https://note.com/th19930828)
 
 ---
 
@@ -39,7 +39,7 @@ hideMeta: true
 
 AIに「今日絶対に必要なもの」と「後でいいもの」を仕分けさせる。ADHD脳のワーキングメモリ制限を外部システムで補う。
 
-[noteで読む →](https://note.com/dopaminelabtv)
+[noteで読む →](https://note.com/th19930828)
 
 ---
 
@@ -50,7 +50,7 @@ AIに「今日絶対に必要なもの」と「後でいいもの」を仕分け
 
 「感情の客観化プロンプト」と「行動の明確化プロンプト」の2段階で、脳のループをリセットする方法。
 
-[noteで読む →](https://note.com/dopaminelabtv)
+[noteで読む →](https://note.com/th19930828)
 
 ---
 
@@ -59,7 +59,7 @@ AIに「今日絶対に必要なもの」と「後でいいもの」を仕分け
 
 「30分で完結できる最小成功」をAIに設計させ、ドーパミン受容体を段階的に正常化する。
 
-[noteで読む →](https://note.com/dopaminelabtv)
+[noteで読む →](https://note.com/th19930828)
 
 ---
 
@@ -70,7 +70,7 @@ AIに「今日絶対に必要なもの」と「後でいいもの」を仕分け
 
 AIに「クライアントが値上げに応じる心理的・ビジネス的理由」を分析させ、値上げが「お願い」から「提案」に変わる認知転換。
 
-[noteで読む →](https://note.com/dopaminelabtv)
+[noteで読む →](https://note.com/th19930828)
 
 ---
 
@@ -79,7 +79,7 @@ AIに「クライアントが値上げに応じる心理的・ビジネス的理
 
 AIに文面を丸ごと委任することで、「完璧性バイアス」から解放される。送信までの心理コストをゼロにする。
 
-[noteで読む →](https://note.com/dopaminelabtv)
+[noteで読む →](https://note.com/th19930828)
 
 ---
 
@@ -88,7 +88,7 @@ AIに文面を丸ごと委任することで、「完璧性バイアス」から
 
 謝罪メールをAIに生成させ、関係を最短で修復する。「謝ることで怒られる」という不安を構造で解消。
 
-[noteで読む →](https://note.com/dopaminelabtv)
+[noteで読む →](https://note.com/th19930828)
 
 ---
 
@@ -99,7 +99,7 @@ AIに文面を丸ごと委任することで、「完璧性バイアス」から
 
 収入源を複数に分散し、AIで各チャネルの状態を定期的にスコアリングする仕組み。
 
-[noteで読む →](https://note.com/dopaminelabtv)
+[noteで読む →](https://note.com/th19930828)
 
 ---
 
@@ -108,7 +108,7 @@ AIに文面を丸ごと委任することで、「完璧性バイアス」から
 
 対応の9割をAIにテンプレート化させ、感情コストを最小化する。「プロとしての対応」をAIが保証する。
 
-[noteで読む →](https://note.com/dopaminelabtv)
+[noteで読む →](https://note.com/th19930828)
 
 ---
 
@@ -117,7 +117,7 @@ AIに文面を丸ごと委任することで、「完璧性バイアス」から
 詳細なプロンプト・実際の使用例・成果の数字は、すべてnoteで公開しています。
 
 - 記事単体: ¥500 / ¥980
-- 発信媒体: [note.com/dopaminelabtv](https://note.com/dopaminelabtv)
+- 発信媒体: [note.com/th19930828](https://note.com/th19930828)
 - 無料記事あり（まず読んでみてください）
 
-[noteを見る →](https://note.com/dopaminelabtv)
+[noteを見る →](https://note.com/th19930828)

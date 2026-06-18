@@ -79,7 +79,7 @@ hideMeta: true
 
 このブログとnoteは、「自分にはできない」と思っていた3年前の自分に届けるために書いています。
 
-**[noteで読む →](https://note.com/dopaminelabtv)**
+**[noteで読む →](https://note.com/th19930828)**
 
 ---
 

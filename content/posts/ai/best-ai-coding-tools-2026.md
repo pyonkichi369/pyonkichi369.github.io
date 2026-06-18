@@ -71,4 +71,4 @@ CLAUDE.mdにプロジェクトのルールを書いておくと、毎回「昨�
 
 ---
 
-AIとの付き合い方について、もっと詳しくnoteで書いています: [note.com/dopaminelabtv](https://note.com/dopaminelabtv)
+AIとの付き合い方について、もっと詳しくnoteで書いています: [note.com/th19930828](https://note.com/th19930828)

@@ -94,4 +94,4 @@ AIが返してきた分析は、「クライアントにとって値上げを受
 
 ---
 
-価格交渉プロトコルの完全版（プロンプト全文と実際のやりとり例）はnoteで公開しています: [note.com/dopaminelabtv](https://note.com/dopaminelabtv)
+価格交渉プロトコルの完全版（プロンプト全文と実際のやりとり例）はnoteで公開しています: [note.com/th19930828](https://note.com/th19930828)

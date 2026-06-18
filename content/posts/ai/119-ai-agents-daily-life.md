@@ -68,4 +68,4 @@ ADHDの記憶の課題（昨日何をしていたか覚えていない）を、A
 
 ADHDの脳が苦手なことを、全部AIと構造に移譲した結果が、このルーティンだ。
 
-詳しいプロンプトと実装例は [PROTOCOLS](/protocols/) にまとめています。noteでもプロトコルの詳細を公開しています: [note.com/dopaminelabtv](https://note.com/dopaminelabtv)
+詳しいプロンプトと実装例は [PROTOCOLS](/protocols/) にまとめています。noteでもプロトコルの詳細を公開しています: [note.com/th19930828](https://note.com/th19930828)

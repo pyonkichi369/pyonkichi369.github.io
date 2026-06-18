@@ -77,4 +77,4 @@ AIはその「最小限の機能」を支える外部装置として使える。
 
 ---
 
-このプロトコルの詳細と、実際のプロンプト全文はnoteで公開しています: [note.com/dopaminelabtv](https://note.com/dopaminelabtv)
+このプロトコルの詳細と、実際のプロンプト全文はnoteで公開しています: [note.com/th19930828](https://note.com/th19930828)

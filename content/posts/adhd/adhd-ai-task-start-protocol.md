@@ -88,4 +88,4 @@ AIは「外側の構造」として使える。毎朝「今日の最初の25分�
 
 ---
 
-このプロトコルの詳細版（実際のプロンプト全文と使い方）は、noteで公開しています: [note.com/dopaminelabtv](https://note.com/dopaminelabtv)
+このプロトコルの詳細版（実際のプロンプト全文と使い方）は、noteで公開しています: [note.com/th19930828](https://note.com/th19930828)
