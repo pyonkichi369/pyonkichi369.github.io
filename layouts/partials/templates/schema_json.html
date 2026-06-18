@@ -1,0 +1,219 @@
+{{- /* GEO-optimized schema override — Person entity + FAQ + BlogPosting */ -}}
+
+{{- /* ── Home page: Person entity (not generic Organization) ── */ -}}
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://pyonkichi369.com/#takuya-hirata",
+  "name": "平田拓也",
+  "alternateName": ["Takuya Hirata", "pyonkichi369"],
+  "url": "https://pyonkichi369.com/",
+  "image": "https://pyonkichi369.com/images/takuya-hirata.jpg",
+  "description": "ADHDとうつ病を抱えながら経営するソロプレナー。AIエージェントを活用した脳の外部化と、論理×神秘の道を探求。140体のAIエージェント組織「AEGIS」を1人で構築・運営。",
+  "jobTitle": "ソロプレナー・AIエンジニア",
+  "knowsAbout": [
+    "ADHD", "うつ病", "不安症", "AI活用", "Claude Code", "AIエージェント",
+    "ソロプレナー", "メンタルヘルス×AI", "脳の外部化", "神経科学", "日本哲学"
+  ],
+  "sameAs": [
+    "https://x.com/pyonkichi369",
+    "https://note.com/th19930828",
+    "https://github.com/pyonkichi369",
+    "https://dopaminelabtv.com",
+    "https://www.youtube.com/@pyonkichi369"
+  ],
+  "mainEntityOfPage": "https://pyonkichi369.com/",
+  "owns": [
+    {
+      "@type": "WebSite",
+      "name": "pyonkichi369.com",
+      "url": "https://pyonkichi369.com/"
+    },
+    {
+      "@type": "WebSite",
+      "name": "Dopamine Lab TV",
+      "url": "https://dopaminelabtv.com"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.Title }},
+  "url": {{ site.BaseURL }},
+  "description": {{ site.Params.description | plainify | truncate 180 | safeHTML }},
+  "author": {
+    "@type": "Person",
+    "@id": "https://pyonkichi369.com/#takuya-hirata",
+    "name": "平田拓也"
+  },
+  "sameAs": [
+    "https://x.com/pyonkichi369",
+    "https://note.com/th19930828",
+    "https://github.com/pyonkichi369",
+    "https://dopaminelabtv.com"
+  ]
+}
+</script>
+
+{{- /* ── Protocols page: FAQ schema for AI answer extraction ── */ -}}
+{{- else if eq .RelPermalink "/protocols/" }}
+{{- $url := replace .Parent.Permalink ( printf "%s" site.BaseURL) "" }}
+{{- $lang_url := strings.TrimPrefix ( printf "%s/" .Lang) $url }}
+{{- $bc_list := (split $lang_url "/")}}
+{{- $scratch := newScratch }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://pyonkichi369.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Protocols", "item": "https://pyonkichi369.com/protocols/" }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "author": {
+    "@type": "Person",
+    "@id": "https://pyonkichi369.com/#takuya-hirata",
+    "name": "平田拓也"
+  },
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "ADHDの人がタスクを始められない「開始の地獄」をAIで解決する方法は？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "タスクを「25分で完結できるサイズ」に砕き、AIに「開始トリガー」を設定させる。大きなタスクをそのまま渡すのではなく、最初の1ステップだけをAIに定義させることで、実行機能障害を構造で回避できる。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "うつ病で仕事のモチベーションがゼロの日に、AIを使って動き出す方法は？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "「30分で完結できる最小成功」をAIに設計させ、ドーパミン受容体を段階的に正常化する。「何もしたくない」ときは大きな目標ではなく、AIが設計した最小タスクだけに集中することで罪悪感のループを断ち切れる。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "不安症のフリーランスが価格交渉をAIを使って成功させる方法は？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AIに「クライアントが値上げに応じる心理的・ビジネス的理由」を分析させ、値上げを「お願い」から「提案」に変換する。拒絶への恐怖を、AIが生成したロジックで上書きすることで、感情ではなく構造で交渉できる。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "ADHDの経営者が複数タスクの優先順位をAIで決める方法は？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "毎朝3分でAIにプロジェクトをスコア化させ、今日1つのタスクだけに集中する仕組みを作る。ADHD脳の「判断疲れ」を根本から解消し、「何からやるか」を考える時間をゼロにできる。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "CLAUDE.mdを使ってADHDの開発者が文脈の回復コストをゼロにする方法は？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "プロジェクトルートにCLAUDE.mdを置き、現在の実装状況・やってはいけないこと・次のタスクを記録する。Claude Codeは毎回このファイルを読んでからタスクを開始するため、翌日「昨日どこまでやったか」を思い出す必要がなくなる。"
+      }
+    }
+  ]
+}
+</script>
+
+{{- /* ── Regular pages/posts: BlogPosting + BreadcrumbList ── */ -}}
+{{- else if (or .IsPage .IsSection) }}
+{{- $url := replace .Parent.Permalink ( printf "%s" site.BaseURL) "" }}
+{{- $lang_url := strings.TrimPrefix ( printf "%s/" .Lang) $url }}
+{{- $bc_list := (split $lang_url "/")}}
+{{- $scratch := newScratch }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+  {{- range $index, $element := $bc_list }}
+    {{- $scratch.Add "path" (printf "%s/" $element ) | safeJS }}
+    {{- $bc_pg := site.GetPage ($scratch.Get "path") -}}
+    {{- if (and ($bc_pg) (gt (len . ) 0))}}
+    {{- if (and $index)}}, {{end }}
+    {
+      "@type": "ListItem",
+      "position": {{ add 1 $index  }},
+      "name": {{ $bc_pg.Name }},
+      "item": {{ $bc_pg.Permalink | safeHTML }}
+    }
+    {{- end }}
+  {{- end }}
+  {{- if (ge (len $bc_list) 2) }}, {{end }}
+    {
+      "@type": "ListItem",
+      "position": {{len $bc_list}},
+      "name": {{ .Name }},
+      "item": {{ .Permalink | safeHTML }}
+    }
+  ]
+}
+</script>
+{{- if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ .Title | plainify }},
+  "name": "{{ .Title | plainify }}",
+  "description": {{ with .Description | plainify }}{{ . }}{{ else }}{{ .Summary | plainify }}{{ end -}},
+  "keywords": [
+    {{- if .Params.keywords }}
+    {{ range $i, $e := .Params.keywords }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}
+    {{- else }}
+    {{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}
+    {{- end }}
+  ],
+  "articleBody": {{ .Content | safeJS | htmlUnescape | plainify }},
+  "wordCount": "{{ .WordCount }}",
+  "inLanguage": {{ .Language.Lang | default "ja" }},
+  {{ if .Params.cover.image -}}
+  "image":
+    {{- if (ne .Params.cover.relative true) -}}
+    {{ .Params.cover.image | absURL }},
+    {{- else -}}
+    {{ (path.Join .RelPermalink .Params.cover.image ) | absURL }},
+    {{- end}}
+  {{- end -}}
+  "datePublished": {{ .PublishDate }},
+  "dateModified": {{ .Lastmod }},
+  "author": {
+    "@type": "Person",
+    "@id": "https://pyonkichi369.com/#takuya-hirata",
+    "name": "平田拓也",
+    "alternateName": "Takuya Hirata",
+    "url": "https://pyonkichi369.com/"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ .Permalink | safeHTML }}
+  },
+  "publisher": {
+    "@type": "Person",
+    "@id": "https://pyonkichi369.com/#takuya-hirata",
+    "name": "平田拓也",
+    "url": "https://pyonkichi369.com/"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": ["h1", ".post-description", ".post-content > p:first-of-type"]
+  }
+}
+</script>
+{{- end }}
+{{- end -}}

@@ -117,9 +117,22 @@ googleAnalytics = "G-HSQ9DBX6WJ"
   name = "github"
   url = "https://github.com/pyonkichi369"
 [[params.socialIcons]]
+  name = "twitter"
+  url = "https://x.com/pyonkichi369"
+[[params.socialIcons]]
   name = "other"
   title = "note"
-  url = "https://note.com/dopaminelabtv"
+  url = "https://note.com/th19930828"
+
+[params.schema]
+  publisherType = "Person"
+  sameAs = [
+    "\"https://x.com/pyonkichi369\"",
+    "\"https://note.com/th19930828\"",
+    "\"https://github.com/pyonkichi369\"",
+    "\"https://dopaminelabtv.com\"",
+    "\"https://www.youtube.com/@pyonkichi369\""
+  ]
 
 [markup]
   [markup.highlight]
