@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>プログラミング on TAKUYA HIRATA</title><link>https://pyonkichi369.com/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</link><description>Recent content in プログラミング on TAKUYA HIRATA</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pyonkichi369.com/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml"/><item><title>【 ブログに費用をあまりかけたくない人必見！ 】ブログを低コストで始める方法</title><link>https://pyonkichi369.com/posts/programming/go/static-site-generator-hugo-blog-1/</link><pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate><guid>https://pyonkichi369.com/posts/programming/go/static-site-generator-hugo-blog-1/</guid><description>&lt;style>
+.flame {
+margin: 1rem 0;
+padding: 1em;
+width: 100%;
+border: 2px solid #828282;
+border-radius: 10px;
+}
+.flame ul {
+margin: 0;
+}
+.flame ul li {
+margin: 0;
+}
+&lt;/style>
+&lt;p>こんにちは、ぴょんきちです！&lt;/p>
+&lt;p>&lt;em>&lt;strong>「 ブログを始めたいけど、何から始めたらいい？ 」「 なるべく初期費用を抑えたいけど、どうしたらいい？ 」&lt;/strong>&lt;/em> など迷っている方必見です！&lt;/p>
+&lt;div class="flame">
+&lt;p style="margin-bottom: .5rem;">&lt;strong>この記事は次のような人におすすめ！&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>ブログを始めたい&lt;/li>
+&lt;li>初期費用を抑えたい&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;p>この記事では「 HUGO 」という静的サイトを紹介します！&lt;/p>
+&lt;p>独自ドメインを取得して設定をするだけなので、5,000円程度でサイト作成から数年間の運用が可能です。&lt;/p>
+&lt;p>これからブログを始めようと考えている方は、ぜひ参考にしてみてくださいね！&lt;/p>
+&lt;p>それでは、始めましょう！&lt;/p>
+&lt;hr>
+&lt;h2 id="前提条件">前提条件&lt;/h2>
+&lt;ul>
+&lt;li>GitHub がわかること&lt;/li>
+&lt;/ul>
+&lt;p>※ 今わからなくても大丈夫です。今後リリース予定の記事で解説をします。&lt;/p>
+&lt;h2 id="hugo-とは">HUGO とは&lt;/h2>
+&lt;p>Go言語で作られたWEBサイトを作成するためのフレームワークのことです。&lt;/p>
+&lt;h2 id="hugo-の特徴">HUGO の特徴&lt;/h2>
+&lt;ul>
+&lt;li>管理画面がない
+&lt;ul>
+&lt;li>WordPress（ 動的サイト ）のように管理画面がなく、パスワード漏洩などでサイトを乗っ取られる心配がない。 GitHubのアカウントさえしっかり管理しておけば大丈夫です。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>ページ表示が高速
+&lt;ul>
+&lt;li>動的サイトのようにコンテンツを動的に変える必要がないので特に何もしなくてもページの表示が高速になる。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>サーバーを管理する必要がない
+&lt;ul>
+&lt;li>動的サイトのようにレンタルサーバーを契約する必要がないので静的サイトのホスティングサービスにさえ登録しておけば大丈夫です。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>HTML, CSS, JavaScript のみで構成
+&lt;ul>
+&lt;li>サーバーサイドの処理（ PHPなど ）を書く必要はありません。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>テンプレートが豊富に用意されている
+&lt;ul>
+&lt;li>当ブログもHUGOのテンプレートの中からカッコいいなと思ったデザインのものを採用してます。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Static Site Generator（ 静的サイトジェネレータ ）で生成
+&lt;ul>
+&lt;li>記事は全てMarkdown（ マークダウン ）で作成して、それをもとにHUGOがHTMLを生成してくれます。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="hugo-vs-wordpress">HUGO vs WordPress&lt;/h2>
+&lt;p>ブログ作成に必要な項目のみで HUGO と WordPress を比較してみようと思います。&lt;/p></description></item></channel></rss>

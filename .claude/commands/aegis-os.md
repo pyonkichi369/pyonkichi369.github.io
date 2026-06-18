@@ -1,0 +1,1 @@
+../../aegis/.claude/commands/aegis-os.md

@@ -1,0 +1,453 @@
+/* AEGIS OS - Custom Styles */
+
+.first-entry .home-info {
+    margin: 0;
+}
+
+/* ===== Dark Theme Overrides ===== */
+:root {
+    --theme: #0a0a0a;
+    --entry: #111111;
+    --primary: #e4e4e7;
+    --secondary: #a1a1aa;
+    --tertiary: #27272a;
+    --content: #d4d4d8;
+    --hljs-bg: #18181b;
+    --code-bg: #1e1e22;
+    --border: #27272a;
+    --gap: 24px;
+    --radius: 12px;
+    --accent: #3b82f6;
+    --accent-light: #60a5fa;
+    --accent-dark: #1d4ed8;
+}
+
+/* ===== Hero Section ===== */
+.aegis-hero {
+    text-align: center;
+    padding: 4rem 1rem 3rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.aegis-hero h1 {
+    font-size: 3.2rem;
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
+    margin-bottom: 1rem;
+    background: linear-gradient(135deg, #ffffff 0%, #3b82f6 50%, #60a5fa 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.aegis-hero .subtitle {
+    font-size: 1.25rem;
+    color: var(--secondary);
+    margin-bottom: 2rem;
+    line-height: 1.6;
+}
+
+.aegis-hero .cta-group {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* ===== Buttons ===== */
+.btn-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.75rem;
+    background: var(--accent);
+    color: #fff;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 1rem;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    border: 1px solid transparent;
+}
+
+.btn-primary:hover {
+    background: var(--accent-dark);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+}
+
+.btn-ghost {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.75rem;
+    background: transparent;
+    color: var(--primary);
+    border: 1px solid var(--tertiary);
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 1rem;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.btn-ghost:hover {
+    border-color: var(--accent);
+    color: var(--accent-light);
+    transform: translateY(-1px);
+}
+
+/* ===== Section Styling ===== */
+.aegis-section {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 3rem 1rem;
+}
+
+.aegis-section h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 0.5rem;
+    color: var(--primary);
+}
+
+.section-subtitle {
+    text-align: center;
+    color: var(--secondary);
+    margin-bottom: 2.5rem;
+    font-size: 1.05rem;
+}
+
+/* ===== Features Grid ===== */
+.features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.feature-card {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid var(--tertiary);
+    border-radius: var(--radius);
+    padding: 1.75rem;
+    transition: all 0.25s ease;
+    backdrop-filter: blur(8px);
+}
+
+.feature-card:hover {
+    border-color: var(--accent);
+    background: rgba(59, 130, 246, 0.05);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+}
+
+.feature-card .icon {
+    font-size: 2rem;
+    margin-bottom: 0.75rem;
+    display: block;
+}
+
+.feature-card h3 {
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: var(--primary);
+}
+
+.feature-card p {
+    color: var(--secondary);
+    font-size: 0.9rem;
+    line-height: 1.6;
+    margin: 0;
+}
+
+/* ===== Architecture Section ===== */
+.arch-diagram {
+    background: var(--code-bg);
+    border: 1px solid var(--tertiary);
+    border-radius: var(--radius);
+    padding: 2rem;
+    font-family: 'SF Mono', 'Fira Code', monospace;
+    font-size: 0.85rem;
+    line-height: 1.8;
+    overflow-x: auto;
+    color: var(--secondary);
+}
+
+.arch-diagram .highlight {
+    color: var(--accent-light);
+    font-weight: 600;
+}
+
+.arch-diagram .dim {
+    color: #52525b;
+}
+
+/* ===== Quick Start Section ===== */
+.quickstart-code {
+    background: var(--code-bg);
+    border: 1px solid var(--tertiary);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+    overflow-x: auto;
+    position: relative;
+}
+
+.quickstart-code::before {
+    content: 'terminal';
+    position: absolute;
+    top: 0.5rem;
+    right: 0.75rem;
+    font-size: 0.7rem;
+    color: #52525b;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.quickstart-code pre {
+    margin: 0;
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+}
+
+.quickstart-code code {
+    font-family: 'SF Mono', 'Fira Code', monospace;
+    font-size: 0.85rem;
+    line-height: 1.7;
+    color: var(--content);
+    background: transparent !important;
+}
+
+.quickstart-code .comment {
+    color: #52525b;
+}
+
+.quickstart-code .cmd {
+    color: var(--accent-light);
+}
+
+/* ===== CTA Footer ===== */
+.aegis-cta {
+    text-align: center;
+    padding: 4rem 1rem;
+    margin: 2rem 0;
+    border-top: 1px solid var(--tertiary);
+}
+
+.aegis-cta h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.aegis-cta p {
+    color: var(--secondary);
+    margin-bottom: 2rem;
+    font-size: 1.05rem;
+}
+
+/* ===== Agent Cards ===== */
+.agents-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin-top: 1.5rem;
+}
+
+.agent-card {
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid var(--tertiary);
+    border-radius: 8px;
+    padding: 1.25rem;
+    text-align: center;
+    transition: all 0.2s ease;
+}
+
+.agent-card:hover {
+    border-color: var(--accent);
+    background: rgba(59, 130, 246, 0.04);
+}
+
+.agent-card .agent-icon {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.agent-card h4 {
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+    color: var(--primary);
+}
+
+.agent-card p {
+    font-size: 0.8rem;
+    color: var(--secondary);
+    margin: 0;
+}
+
+/* ===== Stat Badges ===== */
+.stats-row {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 2rem 0;
+}
+
+.stat-badge {
+    text-align: center;
+}
+
+.stat-badge .number {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: var(--accent-light);
+    display: block;
+    line-height: 1;
+}
+
+.stat-badge .label {
+    font-size: 0.85rem;
+    color: var(--secondary);
+    margin-top: 0.25rem;
+}
+
+/* ===== Divider ===== */
+.section-divider {
+    border: none;
+    border-top: 1px solid var(--tertiary);
+    margin: 0;
+}
+
+/* ===== Post CTA (記事末著者CTA) ===== */
+.post-cta {
+    margin: 3rem 0 1.5rem;
+    border-top: 1px solid var(--tertiary);
+    padding-top: 2rem;
+}
+
+.post-cta-inner {
+    background: rgba(59, 130, 246, 0.04);
+    border: 1px solid var(--tertiary);
+    border-radius: var(--radius);
+    padding: 1.75rem 2rem;
+    transition: border-color 0.2s ease;
+}
+
+.post-cta-inner:hover {
+    border-color: rgba(59, 130, 246, 0.3);
+}
+
+.post-cta-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--secondary);
+    margin: 0 0 0.25rem;
+}
+
+.post-cta-name {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--primary);
+    margin: 0 0 0.75rem;
+}
+
+.post-cta-bio {
+    font-size: 0.9rem;
+    color: var(--secondary);
+    line-height: 1.65;
+    margin: 0 0 1.25rem;
+    max-width: 600px;
+}
+
+.post-cta-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.post-cta-btn {
+    display: inline-block;
+    padding: 0.4rem 1rem;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.15s ease;
+}
+
+.post-cta-btn--ghost {
+    border: 1px solid var(--tertiary);
+    color: var(--secondary);
+    background: transparent;
+}
+
+.post-cta-btn--ghost:hover {
+    border-color: var(--accent);
+    color: var(--accent-light);
+    background: rgba(59, 130, 246, 0.06);
+}
+
+@media (max-width: 480px) {
+    .post-cta-inner {
+        padding: 1.25rem;
+    }
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 768px) {
+    .aegis-hero h1 {
+        font-size: 2.2rem;
+    }
+
+    .aegis-hero .subtitle {
+        font-size: 1.05rem;
+    }
+
+    .features-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .agents-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .stats-row {
+        gap: 1.5rem;
+    }
+
+    .stat-badge .number {
+        font-size: 2rem;
+    }
+
+    .arch-diagram {
+        font-size: 0.75rem;
+        padding: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .aegis-hero {
+        padding: 2.5rem 1rem 2rem;
+    }
+
+    .aegis-hero h1 {
+        font-size: 1.8rem;
+    }
+
+    .aegis-hero .cta-group {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .agents-grid {
+        grid-template-columns: 1fr;
+    }
+}

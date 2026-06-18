@@ -1,0 +1,1 @@
+../../aegis/.claude/commands/dream.md

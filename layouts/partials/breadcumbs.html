@@ -1,0 +1,42 @@
+{{- if (.Param "ShowBreadCrumbs") -}}
+<div class="breadcrumbs">
+    {{- $url := replace .Parent.Permalink (printf "%s" site.BaseURL) "" }}
+    {{- $lang_url := strings.TrimPrefix (printf "%s/" .Lang) $url -}}
+
+    <a href="{{ "" | absLangURL }}">{{ i18n "home" | default "Home" }}</a>
+    {{- $scratch := newScratch }}
+    {{- range $index, $element := split $lang_url "/" }}
+
+    {{- $scratch.Add "path" (printf "%s/" $element )}}
+    {{- $bc_pg := site.GetPage ($scratch.Get "path") -}}
+
+    {{- if (and ($bc_pg) (gt (len . ) 0))}}
+    {{- print "&nbsp;»&nbsp;" | safeHTML -}}<a href="{{ $bc_pg.Permalink }}">{{ $bc_pg.Name }}</a>
+    {{- end }}
+
+    {{- end -}}
+</div>
+{{- end -}}
+
+<script language="JavaScript">
+<!--
+   String.prototype.capitalizeFirstLetter = function() {
+      return this.charAt(0).toUpperCase() + this.slice(1);
+   }
+
+   //Bread crumb script - Kevin Lynn Brown
+   //Duplicate directory names bug fix by JavaScriptKit.com
+   //Visit JavaScript Kit (http://javascriptkit.com) for script
+
+   var path = "<a href='{{ .Site.BaseURL}}'>Home</a>";
+   var href = document.location.href;
+   var s = href.split("/");
+   for (var i=3;i<(s.length-2);i++) {
+      path+=" &gt;  <a href=\""+href.substring(0,href.indexOf("/"+s[i])+s[i].length+1)+"/\">"+s[i].capitalizeFirstLetter()+"</a> ";
+   }
+   i=s.length-1;
+   path+="<a href=\""+href.substring(0,href.indexOf(s[i])+s[i].length)+"\">"+s[i]+"</a>";
+   path+="  &gt;   {{.Title}}";
+   document.writeln(path);
+//-->
+</script>

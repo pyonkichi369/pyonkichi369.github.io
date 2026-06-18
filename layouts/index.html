@@ -1,0 +1,204 @@
+{{- define "main" }}
+
+<!-- Hero Section — Left-aligned, Dubright style -->
+<div class="hero">
+    <div class="hero-badge">
+        {{- if eq .Lang "ja" -}}
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
+        論理と神秘の道 | 平田拓也
+        {{- else -}}
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
+        The Path of Logic &amp; Mystery | Takuya Hirata
+        {{- end -}}
+    </div>
+    <h1>
+        {{- if eq .Lang "ja" -}}
+        AIで独立した。<br>密教で、還った。<br>その先の記録。
+        {{- else -}}
+        Found independence through AI.<br>Found myself through ancient wisdom.<br>This is that record.
+        {{- end -}}
+    </h1>
+    <p class="hero-desc">
+        {{- if eq .Lang "ja" -}}
+        ADHDを抱えながらAIで独立起業した経営者・平田拓也の記録。テクノロジー（論理）と密教・禅・神道（神秘）——その交差点を「論理と神秘の道」と呼んでいます。
+        {{- else -}}
+        The record of Takuya Hirata — entrepreneur with ADHD who found independence through AI, then found stillness through Esoteric Buddhism and Zen. Where technology meets ancient wisdom.
+        {{- end -}}
+    </p>
+    <div class="hero-stats">
+        <div class="hero-stat">
+            <span class="hero-stat-num">89+</span>
+            <span class="hero-stat-label">{{- if eq .Lang "ja" }}note 記事{{ else }}note Articles{{ end -}}</span>
+        </div>
+        <div class="hero-stat">
+            <span class="hero-stat-num">3年</span>
+            <span class="hero-stat-label">{{- if eq .Lang "ja" }}独立経験{{ else }}Solo Business{{ end -}}</span>
+        </div>
+        <div class="hero-stat">
+            <span class="hero-stat-num">AI活用</span>
+            <span class="hero-stat-label">{{- if eq .Lang "ja" }}脳の外部化{{ else }}Brain Extension{{ end -}}</span>
+        </div>
+    </div>
+</div>
+
+<!-- Recent Blog Posts — Bento Grid -->
+<div class="blog-section">
+    <div class="section-header">
+        <h2>{{- if eq .Lang "ja" }}Recent blog post{{ else }}Recent blog post{{ end -}}</h2>
+    </div>
+
+    {{- $pages := where site.RegularPages "Section" "posts" }}
+    {{- $pages = $pages | first 5 }}
+    {{- if $pages }}
+    <div class="bento-grid">
+        {{- range $i, $page := $pages }}
+        {{- if eq $i 0 }}
+        <!-- Featured (large) -->
+        <a href="{{ $page.Permalink }}" class="bento-card bento-featured">
+            <div class="bento-img" style="background: linear-gradient(135deg, #e0d9ff 0%, #c4b5fd 40%, #93c5fd 100%); position:relative;">
+              <svg style="position:absolute;inset:0;width:100%;height:100%;opacity:0.07" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="p0" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="10" cy="10" r="1.5" fill="#5b21b6"/></pattern></defs><rect width="200" height="200" fill="url(#p0)"/></svg>
+            </div>
+            <div class="bento-body">
+                <div class="bento-meta">
+                    <time>{{ $page.Date.Format "Jan 02, 2006" }}</time>
+                    <span class="bento-read">{{ $page.ReadingTime }} min read</span>
+                </div>
+                <h3>{{ $page.Title }}</h3>
+                <p>{{ with $page.Description }}{{ . | truncate 120 }}{{ else }}{{ $page.Summary | truncate 120 }}{{ end }}</p>
+            </div>
+        </a>
+        {{- else }}
+        <!-- Secondary cards -->
+        <a href="{{ $page.Permalink }}" class="bento-card">
+            <div class="bento-img bento-img-sm" style="background: linear-gradient(135deg, {{ if eq $i 1 }}#fef3c7, #fde68a{{ else if eq $i 2 }}#cffafe, #a5f3fc{{ else if eq $i 3 }}#ede9fe, #ddd6fe{{ else }}#fee2e2, #fecaca{{ end }}); position:relative;">
+              <svg style="position:absolute;inset:0;width:100%;height:100%;opacity:0.06" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="g{{ $i }}" x="0" y="0" width="16" height="16" patternUnits="userSpaceOnUse"><rect x="0" y="0" width="8" height="8" fill="{{ if eq $i 1 }}#92400e{{ else if eq $i 2 }}#0e7490{{ else if eq $i 3 }}#5b21b6{{ else }}#9f1239{{ end }}"/></pattern></defs><rect width="200" height="100" fill="url(#g{{ $i }})"/></svg>
+            </div>
+            <div class="bento-body">
+                <div class="bento-meta">
+                    <time>{{ $page.Date.Format "Jan 02, 2006" }}</time>
+                    <span class="bento-read">{{ $page.ReadingTime }} min read</span>
+                </div>
+                {{- range first 1 $page.Params.categories }}
+                <span class="category-badge">{{ . }}</span>
+                {{- end }}
+                <h3>{{ $page.Title }}</h3>
+                <p>{{ with $page.Description }}{{ . | truncate 70 }}{{ else }}{{ $page.Summary | truncate 70 }}{{ end }}</p>
+            </div>
+        </a>
+        {{- end }}
+        {{- end }}
+    </div>
+    {{- end }}
+</div>
+
+<!-- Blog List with Category Filter -->
+<div class="blog-section">
+    <div class="section-header">
+        <h2>{{- if eq .Lang "ja" }}Blog{{ else }}Blog{{ end -}}</h2>
+        <div class="category-filter">
+            <a href="{{ "posts/" | absLangURL }}" class="filter-pill active">All Post</a>
+            <a href="{{ "categories/adhd/" | absLangURL }}" class="filter-pill">ADHD</a>
+            <a href="{{ "categories/ai/" | absLangURL }}" class="filter-pill">AI活用</a>
+            <a href="{{ "tags/solopreneur/" | absLangURL }}" class="filter-pill">独立</a>
+        </div>
+    </div>
+
+    {{- $allPages := where site.RegularPages "Section" "posts" }}
+    {{- $allPages = $allPages | first 6 }}
+    {{- if $allPages }}
+    <div class="blog-grid">
+        {{- range $allPages }}
+        <a href="{{ .Permalink }}" class="blog-card">
+            <div class="blog-card-img" style="background: linear-gradient(135deg, #f0edff 0%, #e0e7ff 50%, #dbeafe 100%); position:relative;">
+              <svg style="position:absolute;inset:0;width:100%;height:100%;opacity:0.06" viewBox="0 0 200 156" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="bc" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M0 12 L12 0 L24 12 L12 24 Z" fill="none" stroke="#4c1d95" stroke-width="0.8"/></pattern></defs><rect width="200" height="156" fill="url(#bc)"/></svg>
+            </div>
+            <div class="blog-card-body">
+                <div class="bento-meta">
+                    <time>{{ .Date.Format "Jan 02, 2006" }}</time>
+                    {{- range first 1 .Params.categories }}
+                    <span class="category-badge category-sm">{{ . }}</span>
+                    {{- end }}
+                </div>
+                <h3>{{ .Title }}</h3>
+                <p>{{ with .Description }}{{ . | truncate 80 }}{{ else }}{{ .Summary | truncate 80 }}{{ end }}</p>
+            </div>
+        </a>
+        {{- end }}
+    </div>
+    {{- end }}
+</div>
+
+<!-- Products Section -->
+<div class="blog-section">
+    <div class="section-header">
+        <h2>{{- if eq .Lang "ja" }}Products & Resources{{ else }}Products & Resources{{ end -}}</h2>
+    </div>
+    <div class="products-grid">
+        <a href="https://note.com/dopaminelabtv" class="product-card product-featured" target="_blank" rel="noopener">
+            <span class="product-tag">{{- if eq .Lang "ja" }}人気{{ else }}Popular{{ end -}}</span>
+            <span class="product-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg></span>
+            <h3>{{- if eq .Lang "ja" }}ADHDとAIの実験記録{{- else -}}ADHD × AI Experiment Log{{- end -}}</h3>
+            <p>{{- if eq .Lang "ja" -}}脳の特性をAIで補うプロトコルを89本以上公開中{{- else -}}89+ articles on using AI to compensate for neurodivergent traits{{- end -}}</p>
+            <span class="product-price">{{- if eq .Lang "ja" }}¥500 / ¥980{{ else }}¥500 / ¥980{{ end -}}</span>
+        </a>
+        <a href="https://dopaminelabtv.com" class="product-card" target="_blank" rel="noopener">
+            <span class="product-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polygon points="10 8 16 12 10 16 10 8"/></svg></span>
+            <h3>Dopamine Lab TV</h3>
+            <p>{{- if eq .Lang "ja" -}}ADHDと生産性、AIと働き方の実験チャンネル{{- else -}}Productivity experiments for ADHD brains{{- end -}}</p>
+            <span class="product-price">{{- if eq .Lang "ja" }}無料{{ else }}Free{{ end -}}</span>
+        </a>
+        <a href="https://github.com/pyonkichi369" class="product-card" target="_blank" rel="noopener">
+            <span class="product-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg></span>
+            <h3>GitHub</h3>
+            <p>{{- if eq .Lang "ja" -}}AIツール・スクリプト・プロンプト集をOSSで公開{{- else -}}AI tools, scripts and prompts — open source{{- end -}}</p>
+            <span class="product-price">Free / OSS</span>
+        </a>
+        <a href="https://coconala.com/" class="product-card" target="_blank" rel="noopener">
+            <span class="product-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span>
+            <h3>{{- if eq .Lang "ja" -}}AI相談・コンサル{{- else -}}AI Consulting{{- end -}}</h3>
+            <p>{{- if eq .Lang "ja" -}}ADHD・起業・AI活用のカジュアル相談{{- else -}}Casual consulting on ADHD, entrepreneurship & AI{{- end -}}</p>
+            <span class="product-price">{{- if eq .Lang "ja" }}&#165;1,000〜{{ else }}From $7{{ end -}}</span>
+        </a>
+    </div>
+</div>
+
+<!-- CTA Section — Dark -->
+<div class="cta-dark">
+    <h2>
+        {{- if eq .Lang "ja" -}}
+        AIがあれば独立できる。<br>でも、それだけでは足りなかった。
+        {{- else -}}
+        AI made independence possible.<br>But that wasn't enough.
+        {{- end -}}
+    </h2>
+    <p>
+        {{- if eq .Lang "ja" -}}
+        脳の特性をAIで補う方法、収入を安定させたプロセス、そして密教・禅・神道と出会って取り戻した「間」——すべてnoteで公開しています。論理と神秘の道を、一緒に歩きませんか。
+        {{- else -}}
+        Using AI to compensate for ADHD, stabilizing income as a solopreneur, and discovering the stillness of Esoteric Buddhism and Zen — all documented on note. Walk the path of logic and mystery with me.
+        {{- end -}}
+    </p>
+    <div class="cta-group">
+        <a href="https://note.com/dopaminelabtv" class="btn-cta-primary" target="_blank" rel="noopener">
+            {{- if eq .Lang "ja" }}noteで読む →{{- else -}}Read on note →{{- end -}}
+        </a>
+    </div>
+    <div class="cta-avatars">
+        <div class="avatar-stack">
+            <div class="avatar" style="background: linear-gradient(135deg, #c084fc, #7c3aed);"></div>
+            <div class="avatar" style="background: linear-gradient(135deg, #60a5fa, #3b82f6);"></div>
+            <div class="avatar" style="background: linear-gradient(135deg, #34d399, #059669);"></div>
+            <div class="avatar" style="background: linear-gradient(135deg, #fbbf24, #d97706);"></div>
+        </div>
+        <span>{{- if eq .Lang "ja" }}同じ悩みを持つ読者と共に{{ else }}With readers facing the same challenges{{ end -}}</span>
+    </div>
+</div>
+
+<!-- Footer Social -->
+<div class="social-links">
+    <a href="https://github.com/pyonkichi369" target="_blank" rel="noopener" title="GitHub"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg></a>
+    <a href="https://note.com/dopaminelabtv" target="_blank" rel="noopener" title="note"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg></a>
+    <a href="https://dopaminelabtv.com" target="_blank" rel="noopener" title="Dopamine Lab TV"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polygon points="10 8 16 12 10 16 10 8"/></svg></a>
+</div>
+
+{{- end }}

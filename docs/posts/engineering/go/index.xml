@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Go言語 on ぴょんきちブログ</title>
+    <link>https://www.pyonkichi369.com/posts/engineering/go/</link>
+    <description>Recent content in Go言語 on ぴょんきちブログ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.pyonkichi369.com/posts/engineering/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【 ブログに費用をあまりかけたくない人必見！ 】ブログを低コストで始める方法</title>
+      <link>https://www.pyonkichi369.com/posts/engineering/go/static-site-generator-hugo-blog/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.pyonkichi369.com/posts/engineering/go/static-site-generator-hugo-blog/</guid>
+      <description>こんにちは、ぴょんきちです！
+「 エンジニアになりたいんだけど、何から勉強したらいいの？ 」「 どんなスキルが必要なの？ 」 など迷っている方必見です！
+この記事は次のような人におすすめ！
+エンジニアを目指している 何から学ぶべきか迷っている この記事でご紹介する「英単語」を最低限覚えておけば、困ることはないでしょう。
+なぜなら、実際に現役エンジニアである私も毎日のように「英単語」に触れているからです。
+これからエンジニアを目指して勉強を始めようと考えている方は、ぜひ参考にしてみてくださいね！
+それでは、始めましょう！
+A accept【 動詞 】
+受諾する、受け入れる
+I want you to accept my request.（ 私はあなたに私の要求を承認してほしいです ）
+access【 動詞／名詞 】
+アクセスする、利用する、入手する／アクセス
+You don&amp;rsquo;t have permission to access / on this server.（ あなたはこのサーバーへのアクセス権限を所持していません ）
+account【 名詞 】
+アカウント、口座
+Do you know the password to login to this account?（ このアカウントにログインするためのパスワードを知ってますか？ ）
+algorithm【 名詞 】
+アルゴリズム ≒ 手法、計算法
+A sorting algorithm is a method for reorganizing a large number of items into a specific order.</description>
+    </item>
+    
+  </channel>
+</rss>

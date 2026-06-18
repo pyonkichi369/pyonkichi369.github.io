@@ -1,0 +1,30 @@
+{{- $lang := .Lang }}
+{{- $isEn := eq $lang "en" }}
+
+<div class="post-cta">
+  <div class="post-cta-inner">
+    <div class="post-cta-text">
+      <p class="post-cta-label">
+        {{- if $isEn }}Written by{{- else }}著者{{- end }}
+      </p>
+      <p class="post-cta-name">TAKUYA HIRATA</p>
+      <p class="post-cta-bio">
+        {{- if $isEn -}}
+          Engineer & Solopreneur. Building AEGIS — a 140-agent AI organization — solo. Writing about AI, agents, and the future of work.
+        {{- else -}}
+          エンジニア・ソロプレナー。140体のAIエージェント組織「AEGIS」を1人で構築・運営中。AI・エージェント・働き方の未来について書いています。
+        {{- end -}}
+      </p>
+      <div class="post-cta-links">
+        <a href="{{- if $isEn }}/en/about/{{- else }}/about/{{- end }}" class="post-cta-btn post-cta-btn--ghost">
+          {{- if $isEn }}About{{- else }}プロフィール{{- end }}
+        </a>
+        <a href="{{- if $isEn }}/en/posts/{{- else }}/posts/{{- end }}" class="post-cta-btn post-cta-btn--ghost">
+          {{- if $isEn }}All Posts{{- else }}記事一覧{{- end }}
+        </a>
+        <a href="https://github.com/pyonkichi369" target="_blank" rel="noopener" class="post-cta-btn post-cta-btn--ghost">GitHub</a>
+        <a href="https://note.com/th19930828" target="_blank" rel="noopener" class="post-cta-btn post-cta-btn--ghost">note</a>
+      </div>
+    </div>
+  </div>
+</div>

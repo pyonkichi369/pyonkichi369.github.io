@@ -1,0 +1,29 @@
+{
+  "PreToolUse": [
+    {
+      "matcher": "Bash",
+      "hooks": [
+        {
+          "type": "command",
+          "command": "bash aegis/.claude/hooks/verify-supply-chain.sh"
+        },
+        {
+          "type": "command",
+          "command": "bash aegis/.claude/hooks/pre-push-quality.sh",
+          "timeout": 60
+        }
+      ]
+    },
+    {
+      "matcher": "Write|Edit",
+      "hooks": [
+        {
+          "type": "command",
+          "command": "bash aegis/.claude/hooks/config-protection.sh",
+          "timeout": 3,
+          "statusMessage": "Config protection check..."
+        }
+      ]
+    }
+  ]
+}

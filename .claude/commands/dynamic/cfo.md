@@ -1,0 +1,1 @@
+../../aegis/.claude/commands/dynamic/cfo.md

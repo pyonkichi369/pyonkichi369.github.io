@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="nodeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#60a5fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Shield outline -->
+  <path d="M60 8 L105 28 L105 62 C105 85 85 105 60 115 C35 105 15 85 15 62 L15 28 Z"
+        fill="none" stroke="url(#shieldGrad)" stroke-width="3" opacity="0.9"/>
+  <!-- Inner shield glow -->
+  <path d="M60 16 L98 33 L98 62 C98 81 81 99 60 108 C39 99 22 81 22 62 L22 33 Z"
+        fill="url(#shieldGrad)" opacity="0.08"/>
+  <!-- Central node -->
+  <circle cx="60" cy="55" r="8" fill="url(#nodeGrad)" opacity="0.9"/>
+  <!-- Orbiting nodes -->
+  <circle cx="60" cy="30" r="4" fill="#60a5fa" opacity="0.8"/>
+  <circle cx="85" cy="50" r="4" fill="#60a5fa" opacity="0.8"/>
+  <circle cx="78" cy="78" r="4" fill="#60a5fa" opacity="0.8"/>
+  <circle cx="42" cy="78" r="4" fill="#60a5fa" opacity="0.8"/>
+  <circle cx="35" cy="50" r="4" fill="#60a5fa" opacity="0.8"/>
+  <!-- Connection lines -->
+  <line x1="60" y1="30" x2="60" y2="47" stroke="#3b82f6" stroke-width="1.5" opacity="0.5"/>
+  <line x1="85" y1="50" x2="68" y2="53" stroke="#3b82f6" stroke-width="1.5" opacity="0.5"/>
+  <line x1="78" y1="78" x2="65" y2="61" stroke="#3b82f6" stroke-width="1.5" opacity="0.5"/>
+  <line x1="42" y1="78" x2="55" y2="61" stroke="#3b82f6" stroke-width="1.5" opacity="0.5"/>
+  <line x1="35" y1="50" x2="52" y2="53" stroke="#3b82f6" stroke-width="1.5" opacity="0.5"/>
+  <!-- Outer ring connections -->
+  <line x1="60" y1="30" x2="85" y2="50" stroke="#3b82f6" stroke-width="0.8" opacity="0.25"/>
+  <line x1="85" y1="50" x2="78" y2="78" stroke="#3b82f6" stroke-width="0.8" opacity="0.25"/>
+  <line x1="78" y1="78" x2="42" y2="78" stroke="#3b82f6" stroke-width="0.8" opacity="0.25"/>
+  <line x1="42" y1="78" x2="35" y2="50" stroke="#3b82f6" stroke-width="0.8" opacity="0.25"/>
+  <line x1="35" y1="50" x2="60" y2="30" stroke="#3b82f6" stroke-width="0.8" opacity="0.25"/>
+</svg>

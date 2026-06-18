@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>タグ２ on ぴょんきちブログ</title>
+    <link>https://www.pyonkichi369.com/tags/%E3%82%BF%E3%82%B0%EF%BC%92/</link>
+    <description>Recent content in タグ２ on ぴょんきちブログ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 06 Nov 2021 20:50:09 +0900</lastBuildDate><atom:link href="https://www.pyonkichi369.com/tags/%E3%82%BF%E3%82%B0%EF%BC%92/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ハロー</title>
+      <link>https://www.pyonkichi369.com/posts/other/hello/</link>
+      <pubDate>Sat, 06 Nov 2021 20:50:09 +0900</pubDate>
+      
+      <guid>https://www.pyonkichi369.com/posts/other/hello/</guid>
+      <description>ハロー</description>
+    </item>
+    
+  </channel>
+</rss>

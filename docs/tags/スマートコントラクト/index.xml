@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>スマートコントラクト on TAKUYA HIRATA</title><link>https://pyonkichi369.com/tags/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88/</link><description>Recent content in スマートコントラクト on TAKUYA HIRATA</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pyonkichi369.com/tags/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88/index.xml" rel="self" type="application/rss+xml"/><item><title>スマートコントラクトとは？</title><link>https://pyonkichi369.com/posts/blockchain/what-is-smart-contract/</link><pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate><guid>https://pyonkichi369.com/posts/blockchain/what-is-smart-contract/</guid><description>&lt;style>
+.flame {
+margin: 1rem 0;
+padding: 1em;
+width: 100%;
+border: 2px solid #828282;
+border-radius: 10px;
+}
+.flame ul {
+margin: 0;
+}
+.flame ul li {
+margin: 0;
+}
+&lt;/style>
+&lt;p>こんにちは、ぴょんきちです！&lt;/p>
+&lt;p>前回の記事でお伝えしましたが、今回はスマートコントラクトについて理解した内容を備忘録のような形でみなさまに共有します！&lt;/p>
+&lt;p>もしまだ前回の記事を読まれてないようでしたら、&lt;a href="https://pyonkichi369.com/posts/blockchain/dao/what-is-dao/">こちら&lt;/a>から「 DAO（ 自律分散型組織 ） 」について理解を深めてから読んでいただけるとより良いかと思います。&lt;/p>
+&lt;div class="flame">
+&lt;p style="margin-bottom: .5rem;">&lt;strong>目次&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>&lt;a href="#スマートコントラクトとは">スマートコントラクトとは&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#スマートコントラクトの特徴">スマートコントラクトの特徴&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#スマートコントラクトのメリット">スマートコントラクトのメリット&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#スマートコントラクトのデメリット">スマートコントラクトのデメリット&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#最後に">最後に&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;/div>
+&lt;p>それでは、始めましょう！&lt;/p>
+&lt;hr>
+&lt;h2 id="スマートコントラクトとは">スマートコントラクトとは&lt;/h2>
+&lt;p>スマートコントラクトとは、ブロックチェーンシステム上の概念のことです。&lt;/p>
+&lt;p>あらかじめ、ブロックチェーンシステム上に実装されたルールに従って、ブロックチェーン上のトランザクション（ 取引 ）やブロックチェーン外から取り込まれた情報をトリガーとして処理されることを指します。&lt;/p>
+&lt;p>この技術自体は決して新しいものではなく、1990年代にすでに「 ニック・サボ 」というコンピュータサイエンティストが提唱していました。&lt;/p>
+&lt;p>彼は、スマートコントラクトの説明をするにあたって、「 自動販売機 」を挙げたそうです。&lt;/p>
+&lt;p>確かに、それならわかりやすく理解でき説明もしやすいなと思ったため、以下に例を示します。&lt;/p>
+&lt;p>「 150円に設定されているコーラを買うために、ぴょんきちは財布から150円を取り出して、自動販売機に入れるとたちまち受け取り口へとコーラを送りました。 」この一連の流れをスマートコントラクトに例えることができます。&lt;/p>
+&lt;p>150円に設定されているコーラがまさに「 ブロックチェーンシステム上に実装されたルール 」であり、150円を取り出して、自動販売機に入れることで「 外から情報 」が取り込まれ、それをトリガーとして「 受け取り口へとコーラを送る 」という処理が実施されます。&lt;/p>
+&lt;h2 id="スマートコントラクトの特徴">スマートコントラクトの特徴&lt;/h2>
+&lt;ul>
+&lt;li>本人も第三者も変更できない&lt;/li>
+&lt;li>透明性に優れている&lt;/li>
+&lt;/ul>
+&lt;h3 id="本人も第三者も変更できない">本人も第三者も変更できない&lt;/h3>
+&lt;p>これはスマートコントラクトの特徴というよりも、ブロックチェーンの特徴といえそうですが…（ ※ そもそもブロックチェーンの説明できてなかったので、近日中にに実施します。 ）&lt;/p></description></item></channel></rss>

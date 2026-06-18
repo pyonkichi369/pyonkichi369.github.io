@@ -1,0 +1,129 @@
+baseURL = 'https://pyonkichi369.com/'
+canonifyurls = true
+languageCode = 'ja'
+defaultContentLanguage = 'ja'
+title = '平田拓也 | 論理と神秘の道'
+theme = 'hugo-PaperMod'
+publishDir = 'docs'
+searchHidden = true
+enableEmoji = true
+googleAnalytics = "G-HSQ9DBX6WJ"
+
+[languages]
+  [languages.ja]
+      title = 'TAKUYA HIRATA'
+      languageName = '日本語'
+      displayFullLangName = true
+      weight = 1
+      [languages.ja.params]
+        keywords = [
+           "ADHD",
+           "うつ病",
+           "不安症",
+           "AI",
+           "独立",
+           "起業",
+           "密教",
+           "禅",
+           "神道",
+           "論理と神秘の道",
+           "平田拓也"
+        ]
+        description = "ADHDを抱えながらAIで独立起業した経営者・平田拓也の記録。テクノロジー（論理）と密教・禅・神道（神秘）——その交差点を「論理と神秘の道」と呼んでいます。"
+      [languages.ja.params.homeInfoParams]
+        title = "平田拓也"
+        content = "論理と神秘の道 — AI×密教×独立の記録"
+  [languages.en]
+      title = 'TAKUYA HIRATA'
+      languageName = 'English'
+      displayFullLangName = true
+      weight = 2
+      [languages.en.params]
+        author = "TAKUYA HIRATA"
+        keywords = [
+          "ADHD",
+          "depression",
+          "anxiety",
+          "AI",
+          "solopreneur",
+          "independence",
+          "entrepreneur",
+          "mental health",
+          "Tokyo"
+        ]
+        description = "Takuya Hirata — entrepreneur with ADHD who found independence through AI, then found stillness through Esoteric Buddhism and Zen. Walking the path of logic and mystery."
+      [languages.en.params.homeInfoParams]
+        title = "Takuya Hirata"
+        content = "The Path of Logic &amp; Mystery — AI × Zen × Independence"
+      [languages.en.params.profileMode]
+        enabled = false
+      [languages.en.params.label]
+        text = "TAKUYA HIRATA"
+
+[params]
+  author = "TAKUYA HIRATA"
+  defaultTheme = "light"
+  env = "production"
+  dateFormat = "2006-01-02"
+  showBreadCrumbs = false
+  showReadingTime = true
+  showCodeCopyButtons = true
+  ShowPostNavLinks = true
+  ShowShareButtons = true
+  mainSections = ["posts"]
+  [params.profileMode]
+    enabled = false
+  [params.homeInfoParams]
+    Title = "平田拓也"
+    Content = "論理と神秘の道 — AI×密教×独立の記録"
+  [params.label]
+    text = "TAKUYA"
+  images = ["/images/aegis-os-logo.svg"]
+  [params.assets]
+    theme_color = "#F7F4EE"
+    msapplication_TileColor = "#F7F4EE"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[[menu.main]]
+  weight = 1
+  identifier = "home"
+  name = "HOME"
+  url = "/"
+[[menu.main]]
+  weight = 2
+  identifier = "story"
+  name = "STORY"
+  url = "/story/"
+[[menu.main]]
+  weight = 3
+  identifier = "protocols"
+  name = "PROTOCOLS"
+  url = "/protocols/"
+[[menu.main]]
+  weight = 4
+  identifier = "blog"
+  name = "BLOG"
+  url = "/posts/"
+[[menu.main]]
+  weight = 5
+  identifier = "about"
+  name = "ABOUT"
+  url = "/about/"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/pyonkichi369"
+[[params.socialIcons]]
+  name = "other"
+  title = "note"
+  url = "https://note.com/dopaminelabtv"
+
+[markup]
+  [markup.highlight]
+    style = "monokailight"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

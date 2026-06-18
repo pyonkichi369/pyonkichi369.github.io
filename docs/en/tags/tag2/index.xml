@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tag2 on PYONKICHI BLOG</title>
+    <link>https://www.pyonkichi369.com/en/tags/tag2/</link>
+    <description>Recent content in tag2 on PYONKICHI BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 06 Nov 2021 20:50:09 +0900</lastBuildDate><atom:link href="https://www.pyonkichi369.com/en/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://www.pyonkichi369.com/en/posts/other/hello/</link>
+      <pubDate>Sat, 06 Nov 2021 20:50:09 +0900</pubDate>
+      
+      <guid>https://www.pyonkichi369.com/en/posts/other/hello/</guid>
+      <description>Hello</description>
+    </item>
+    
+  </channel>
+</rss>
