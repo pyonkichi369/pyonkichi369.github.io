@@ -73,4 +73,4 @@ ADHDで人生がうまくいかないと思っていた時期の自分に向け�
 
 - note: [note.com/th19930828](https://note.com/th19930828)
 - GitHub: [github.com/pyonkichi369](https://github.com/pyonkichi369)
-- Email: [contact@pyonkichi369.com](mailto:contact@pyonkichi369.com)
+- X: [x.com/pyonkichi369](https://x.com/pyonkichi369)
