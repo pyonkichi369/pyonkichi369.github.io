@@ -86,4 +86,4 @@ ADHDソロプレナーにとってAIは「生産性ツール」ではなく「�
 
 ---
 
-ADHDとAIの実践的な使い方を、noteで89本以上公開しています: [note.com/th19930828](https://note.com/th19930828)
+ADHDとAIの実践的な使い方を、noteで公開しています: [note.com/th19930828](https://note.com/th19930828)
